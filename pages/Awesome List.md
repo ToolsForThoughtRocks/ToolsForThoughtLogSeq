@@ -1,2 +1,3 @@
 - Created by [[Sindre Sorhus]]
-- The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome, as well as the Awesome
+- The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome
+- The Awesome manifesto describes how / why to run a list
