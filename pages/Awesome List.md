@@ -1,2 +1,2 @@
 - Created
-- https://github.com/sindresorhus/awesome
+- The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome
