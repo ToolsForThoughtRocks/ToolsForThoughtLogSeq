@@ -8,12 +8,12 @@
 	- **Pay attention to grammar**
 	  Ensure your list is grammatically correct, typo-free and has no Markdown formatting errors. This should also apply to pull requests.
 	- **Choose an appropriate license**
-	  Keep in mind that if you haven't selected a license, it basically means the people are not allowed to reproduce, distribute or create derivative works.
-	- Creative Commons licenses are perfect for this purpose. We would recommend CC0. Code licenses like MIT, BSD, GPL, and so forth are not recommended.
+		- Keep in mind that if you haven't selected a license, it basically means the people are not allowed to reproduce, distribute or create derivative works.
+		- Creative Commons licenses are perfect for this purpose. We would recommend CC0. Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 	- **Include contribution guidelines**
-	  People who are contributing to your list should have a clear understanding of how they should do so.
-	- If you don't feel like writing one from scratch, feel free to take our contributing.md and modify it to your own needs.
-	- Stylize your list properly
+		- People who are contributing to your list should have a clear understanding of how they should do so.
+	- If you don't feel like writing one from scratch, feel free to take our []contributing.md](https://github.com/sindresorhus/awesome/blob/main/contributing.md) and modify it to your own needs.
+	- **Stylize your list properly**
 	  Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a .).
-	- Accept other people's opinion
+	- **Accept other people's opinion**
 	  If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
