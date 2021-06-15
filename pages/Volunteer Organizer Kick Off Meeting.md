@@ -1,3 +1,4 @@
 - suggesting [[June 30th, 2021]]
 - 9am and 6pm PDT
-- Agenda thread
+- Agenda thread https://github.com/TFTInterchange/ToolsForThoughtInterchange/discussions/6
+-
