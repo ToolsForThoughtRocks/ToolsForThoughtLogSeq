@@ -1,3 +1,4 @@
 - Created by [[Sindre Sorhus]]
 - The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome
-- The Awesome manifesto describes how / why to run a list
+- The [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) describes how / why to run a list
+	-
