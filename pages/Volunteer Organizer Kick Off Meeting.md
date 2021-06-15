@@ -3,3 +3,4 @@
 - Agenda thread https://github.com/TFTInterchange/ToolsForThoughtInterchange/discussions/6
 -
   lumalink:: https://lu.ma/wcy5ry6j
+- TODO Add a Zoom link
