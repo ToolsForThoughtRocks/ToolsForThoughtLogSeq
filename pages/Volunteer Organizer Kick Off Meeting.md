@@ -1,2 +1,3 @@
-- suggesting
-- may need to do two in one day -- one in the PDT morning for west coast / Europe cross over, one in the evening for west coast / Australian time zone
+- suggesting [[June 30th, 2021]]
+- 9am and 6pm PDT
+- Agenda thread
