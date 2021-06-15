@@ -12,8 +12,8 @@
 		- Creative Commons licenses are perfect for this purpose. We would recommend CC0. Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 	- **Include contribution guidelines**
 		- People who are contributing to your list should have a clear understanding of how they should do so.
-	- If you don't feel like writing one from scratch, feel free to take our []contributing.md](https://github.com/sindresorhus/awesome/blob/main/contributing.md) and modify it to your own needs.
+		- If you don't feel like writing one from scratch, feel free to take our []contributing.md](https://github.com/sindresorhus/awesome/blob/main/contributing.md) and modify it to your own needs.
 	- **Stylize your list properly**
-	  Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a .).
+		- Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a .).
 	- **Accept other people's opinion**
 	  If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
