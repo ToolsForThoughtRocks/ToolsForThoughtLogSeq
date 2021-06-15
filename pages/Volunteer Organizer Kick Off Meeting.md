@@ -1,0 +1,2 @@
+- late June
+- may need to do two in one day -- one in the PDT morning for west coast / Europe cross over, one in the evening for west coast / Australian time zone
