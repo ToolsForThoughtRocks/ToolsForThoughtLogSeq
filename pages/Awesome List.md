@@ -2,7 +2,7 @@
 - The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome
 - The [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) describes how / why to run a list
 	- **Comment on why something is awesome**
-	  Apart from suggesting a particular item on your list, you should also inform your readers why it's on the list and how they will benefit from it.
+		- Apart from suggesting a particular item on your list, you should also inform your readers why it's on the list and how they will benefit from it.
 	- **Make it clear what the list is about**
 		- Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
 	- **Pay attention to grammar**
