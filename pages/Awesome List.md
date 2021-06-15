@@ -1,2 +1,2 @@
-- Created
-- The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome
+- Created by [[Sindre Sorhus]]
+- The meta list that aggregates other awesome lists is here https://github.com/sindresorhus/awesome, as well as the Awesome
