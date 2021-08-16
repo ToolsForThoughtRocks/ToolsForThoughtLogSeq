@@ -1,4 +1,4 @@
 link:: https://awarm.space
 
 -
-  tags::
+  tags:: #person, #speaker
