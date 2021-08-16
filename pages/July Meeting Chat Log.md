@@ -6,7 +6,7 @@ tags:: #chatlog
 - 00:33:06	Jess Martin:	(based on timing we'll probably run ~10 minutes long)
 - 00:36:37	Boris Mann:	https://thesephist.com/posts/inc
 - 00:37:26	Joe Trellick:	Yeah, time is one of the most fundamental memory concepts! I don't feel like many tools make as much of that as they could
-  00:38:33	Boris Mann:	It’s interesting to me where people are definitely highlighting “offline compatible” as a needed feature
+- 00:38:33	Boris Mann:	It’s interesting to me where people are definitely highlighting “offline compatible” as a needed feature
   00:38:41	Jess Martin:	Trellick - agree! I started working on an OS oriented around a timeline rather than a filesystem and the experience was really thought-provoking
   00:38:54	Boris Mann:	Append == immutable / versioning
   00:39:09	Steven Ritchie (he/him):	Agreed, the only value I’ve ever found from Roam-like tools is the daily note paradigm, nothing else really stuck for me.
