@@ -2,10 +2,8 @@ link:: https://lu.ma/community/com-mmvGpDTZoRDsxou/announcement/cannounce-2wiARv
 
 - The July meeting featured three tool makers. Thanks to everyone for attending the talk, and for our three speakers for presenting.
 - The recording ended up over 1.5 hours, and we chatted a little off the record too. Lesson learned: leave some buffer time to spend more time hanging out with TfT people!
-  
-  The video is on the event page and also on our new YouTube channel https://youtu.be/u-ib5IZnZu0
-  
-  The chat log is on Github https://github.com/TFTInterchange/ToolsForThoughtInterchange/blob/main/2021-07-28-chat.txt
+- The video is on the event page and also on our new YouTube channel https://youtu.be/u-ib5IZnZu0
+- The chat log is on Github https://github.com/TFTInterchange/ToolsForThoughtInterchange/blob/main/2021-07-28-chat.txt
 ## Linus Lee
 
 Incremental Note-taking and Monocle, a personal search engine
