@@ -1,2 +1,2 @@
 - Very interested in distributed / p2p technologies.
-- Wonders if git
+- Wonders if "the way of the git" is
