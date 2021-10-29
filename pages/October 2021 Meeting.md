@@ -1,1 +1,12 @@
 - [[October 2021 Chat Log]]
+- Notes
+	- [[Rosano]] [[Wetware of Writing and Doing]]
+	- [[Joybox]]
+	- [[Hyperdraft]]
+	- [[Write of Passage]] by [[David Perell]]
+	- [[Cory Doctorow]], [[The Memex Method]]
+	- [[Bill Seitz]] [[POSSE]] and [[PESOS]]
+	- [[Bill Seitz]] [MashUp](http://webseitz.fluxent.com/wiki/MashUp)
+	- [[Marc-Antoine Parent]]
+	- [[Andy Matuschak]] [[Export considered harmful]]
+	- [[Linus Lee]] Twitter client, [[Lucerne]]
