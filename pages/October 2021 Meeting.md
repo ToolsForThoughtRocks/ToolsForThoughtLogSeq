@@ -1,4 +1,9 @@
 - [[October 2021 Chat Log]]
+- Lobby Chatter
+	- Let's try different collaborative apps, like [[Sprout]] that Wei Wei builds
+	- [[Butter]] is one that [[Boris]] tried the other day
+	- Bandwidth is 5x more expensive than storage costs, per GB
+	- [[Cloudflare]] released [[Cloudflare R2]], an [[Amazon S3]] competitor with no bandwidth costs
 - Notes
 	- [[Rosano]] [[Wetware of Writing and Doing]]
 	- [[Joybox]]
