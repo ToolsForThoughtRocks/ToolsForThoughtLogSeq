@@ -1,4 +1,6 @@
 github:: https://github.com/wikiavec/hyperdraft
 
 -
-  author::
+  author:: [[Rosano]]
+-
+  tags::
