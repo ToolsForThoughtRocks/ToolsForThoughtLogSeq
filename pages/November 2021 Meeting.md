@@ -1,3 +1,5 @@
 date:: [[Nov 30th, 2021]]
 
-- link
+-
+  link:: https://lu.ma/tftrocks-nov
+-
