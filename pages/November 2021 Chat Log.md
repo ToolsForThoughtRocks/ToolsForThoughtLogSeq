@@ -47,12 +47,12 @@
 - 01:23:11	Bill Seitz:	fix your thoughts in production
 - 01:23:30	Jess Martin:	think by coding
 - 01:24:26	Jess Martin:	he could make it scroll pixel by pixel instead of line-by-line ;)
-- 01:24:44	Boris Mann:	https://www.youtube.com/watch?v=MCVj5RZOqwY
-  01:24:56	Bill Seitz:	http://webseitz.fluxent.com/wiki/DabbleDB
-  01:25:44	Boris Mann:	I should just have a redirect where if my system doesn’t have a slug, it just goes to Bill’s site!
-  01:26:05	Jess Martin:	that's an amazing idea
-  01:26:07	Rob Haisfield:	Tudor, would you please explain the difference between implicit and explicit references?
-  01:26:51	Marc-Antoine Parent:	Just downloaded, thank you! Awesome work.
+- 01:24:44	Boris Mann:	[[Avi Bryant]] #DabbleDB demo https://www.youtube.com/watch?v=MCVj5RZOqwY
+- 01:24:56	Bill Seitz:	http://webseitz.fluxent.com/wiki/DabbleDB
+- 01:25:44	Boris Mann:	I should just have a redirect where if my system doesn’t have a slug, it just goes to Bill’s site!
+- 01:26:05	Jess Martin:	that's an amazing idea
+- 01:26:07	Rob Haisfield:	Tudor, would you please explain the difference between implicit and explicit references?
+- 01:26:51	Marc-Antoine Parent:	Just downloaded, thank you! Awesome work.
   01:27:02	Sophia Xu:	^ is it like Roam where it’s linked vs unlinked references
   01:27:12	Jess Martin:	workflow > tools
   01:27:33	Jess Martin:	also, mediums > tools - when you say "kinds of thoughts", it sounds like you're referring to different mediums
