@@ -61,8 +61,8 @@
 - 01:28:37	Jess Martin:	+100000 to diff views of same object
 - 01:30:54	Bill Seitz:	in most languages, a “file” contains lots of code “nodes”, is that also true here?
 - 01:32:27	Bill Seitz:	mentality kinda reminds me of Emails → OrgMode, etc.
-  01:33:15	Bill Seitz:	(“Emails” → Emacs)
-  01:33:51	Sophia Xu:	^^
+- 01:33:15	Bill Seitz:	(“Emails” → Emacs)
+- 01:33:51	Sophia Xu:	^^
   01:34:19	Jess Martin:	again, seems like we're moving from TFT -> Operating System. Which I *love* to see. "Lepiter became the core" is super interesting.
   01:35:23	Rob Haisfield:	Newmacs
   01:36:09	Jess Martin:	The emacs / orgmode reference is apropos - seems like emacs user just default to extending emacs to support their use case rather than having to leave the "environment" they're in
