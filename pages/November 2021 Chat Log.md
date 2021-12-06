@@ -93,7 +93,7 @@
 - 01:44:27	wesley:	@Boris, what about TfT curricula in public schools?
 - 01:44:27	Boris Mann:	I talked to Dylan Steck / Cortex and he’s playing with spreadsheets and financial / budget data
 - 01:44:43	Sophia Xu:	Gotta run but t\hank you Tudor for this amazing presentation!
-  01:44:46	Boris Mann:	So all of a sudden your grocery bill and shopping lists … a very personal item … becomes programmable
-  01:44:58	Boris Mann:	Thanks Sophia — we’ll get your slides and post in a week or so.
-  01:45:33	Bill Seitz:	Spreadsheet as fundamental UI pattern?
-  01:45:36	@chadkoh:	Thank you!
+- 01:44:46	Boris Mann:	So all of a sudden your grocery bill and shopping lists … a very personal item … becomes programmable
+- 01:44:58	Boris Mann:	Thanks Sophia — we’ll get your slides and post in a week or so.
+- 01:45:33	Bill Seitz:	Spreadsheet as fundamental UI pattern?
+- 01:45:36	@chadkoh:	Thank you!
