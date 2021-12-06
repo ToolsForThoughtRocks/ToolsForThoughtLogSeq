@@ -12,17 +12,17 @@
 - different "intakes" he has: podcasts, yt videos, tweets, etc
 - 00:38:08	Jess Martin:	WOOO edit the app inside the app!
 - 00:41:58	Jess Martin:	oh dang, that's nice
-- 00:46:14	Sophia Xu:	Project home: https://unigraph.dev/
+- 00:46:14	Sophia Xu:	Project home: https://unigraph.dev
   Discord community: https://discord.gg/vDTkKar5Vz
   Waiting list sign-up: https://docs.google.com/forms/d/e/1FAIpQLSfmS1BUZNF6wprSGU08XpCcM-UWh5BEMwuQ8gweBGIH7SSD8w/viewform?usp=sf_link
   My Twitter: https://twitter.com/thesophiaxu
   If you know about a seed investment opportunity, send me a Twitter DM!
-  00:50:59	Jess Martin:	distributed graph not just a distributed system question, also a major UX question!
-  00:51:09	Jess Martin:	public/private space, etc
-  00:54:23	Jess Martin:	feels more like a replacement for the operating system than a tool for thought... as a good TFT should :)
-  00:55:21	Boris Mann:	Power tools add on. Alfred. etc.
-  00:58:17	Christopher Galtenberg:	The "social emotional" line was so good, I'm going to have to transcribe that for myself 😄
-  00:59:10	Kushan :	How are you planning to keep things from outside in sync ? For example , I delete a tweet after I have pulled it in to unigraph
+- 00:50:59	Jess Martin:	distributed graph not just a distributed system question, also a major UX question!
+- 00:51:09	Jess Martin:	public/private space, etc
+- 00:54:23	Jess Martin:	feels more like a replacement for the operating system than a tool for thought... as a good TFT should :)
+- 00:55:21	Boris Mann:	Power tools add on. Alfred. etc.
+- 00:58:17	Christopher Galtenberg:	The "social emotional" line was so good, I'm going to have to transcribe that for myself 😄
+- 00:59:10	Kushan :	How are you planning to keep things from outside in sync ? For example , I delete a tweet after I have pulled it in to unigraph
   00:59:31	@chadkoh:	Can/will we be able to open multiple windows/tabs simultaneously?
   01:03:45	Boris Mann:	I can imagine pointing this at a collection of markdown files
   01:04:03	Boris Mann:	Everything is a sync problem 🙂
