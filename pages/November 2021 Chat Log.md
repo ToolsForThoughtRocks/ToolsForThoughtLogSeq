@@ -53,9 +53,9 @@
 - 01:26:05	Jess Martin:	that's an amazing idea
 - 01:26:07	Rob Haisfield:	Tudor, would you please explain the difference between implicit and explicit references?
 - 01:26:51	Marc-Antoine Parent:	Just downloaded, thank you! Awesome work.
-  01:27:02	Sophia Xu:	^ is it like Roam where it’s linked vs unlinked references
-  01:27:12	Jess Martin:	workflow > tools
-  01:27:33	Jess Martin:	also, mediums > tools - when you say "kinds of thoughts", it sounds like you're referring to different mediums
+- 01:27:02	Sophia Xu:	^ is it like Roam where it’s linked vs unlinked references
+- 01:27:12	Jess Martin:	workflow > tools
+- 01:27:33	Jess Martin:	also, mediums > tools - when you say "kinds of thoughts", it sounds like you're referring to different mediums
   01:27:41	Orion Reed:	This ^
   01:28:04	Jess Martin:	I wrote about this a bit last week: https://jessmart.in/articles/tools
   01:28:37	Jess Martin:	+100000 to diff views of same object
