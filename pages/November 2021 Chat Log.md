@@ -30,9 +30,9 @@
 - 01:04:07	Boris Mann:	Or a search problem.
 - 01:06:08	Tanner Seidman:	I wonder how difficult it would be to make a plugin for the different methods, like org-roam or logseq
 - 01:06:14	Tudor Girba:	thank you! great work!
-  01:06:16	Tanner Seidman:	Thanks!
-  01:06:19	Jack Park:	Thanks Sophia!
-  01:06:31	Boris Mann:	Sync: depends on the API in part
+- 01:06:16	Tanner Seidman:	Thanks!
+- 01:06:19	Jack Park:	Thanks Sophia!
+- 01:06:31	Boris Mann:	Sync: depends on the API in part
   01:06:46	@chadkoh:	Great job Sophia 👏 👏 👏
   01:07:00	Marc-Antoine Parent:	Very impressive!
   01:07:28	Michael Gartner:	Ctrl-A
