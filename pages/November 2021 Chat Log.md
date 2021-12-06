@@ -56,11 +56,11 @@
 - 01:27:02	Sophia Xu:	^ is it like Roam where it’s linked vs unlinked references
 - 01:27:12	Jess Martin:	workflow > tools
 - 01:27:33	Jess Martin:	also, mediums > tools - when you say "kinds of thoughts", it sounds like you're referring to different mediums
-  01:27:41	Orion Reed:	This ^
-  01:28:04	Jess Martin:	I wrote about this a bit last week: https://jessmart.in/articles/tools
-  01:28:37	Jess Martin:	+100000 to diff views of same object
-  01:30:54	Bill Seitz:	in most languages, a “file” contains lots of code “nodes”, is that also true here?
-  01:32:27	Bill Seitz:	mentality kinda reminds me of Emails → OrgMode, etc.
+- 01:27:41	Orion Reed:	This ^
+- 01:28:04	Jess Martin:	I wrote about this a bit last week: https://jessmart.in/articles/tools
+- 01:28:37	Jess Martin:	+100000 to diff views of same object
+- 01:30:54	Bill Seitz:	in most languages, a “file” contains lots of code “nodes”, is that also true here?
+- 01:32:27	Bill Seitz:	mentality kinda reminds me of Emails → OrgMode, etc.
   01:33:15	Bill Seitz:	(“Emails” → Emacs)
   01:33:51	Sophia Xu:	^^
   01:34:19	Jess Martin:	again, seems like we're moving from TFT -> Operating System. Which I *love* to see. "Lepiter became the core" is super interesting.
