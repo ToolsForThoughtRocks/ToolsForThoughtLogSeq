@@ -23,13 +23,13 @@
 - 00:55:21	Boris Mann:	Power tools add on. Alfred. etc.
 - 00:58:17	Christopher Galtenberg:	The "social emotional" line was so good, I'm going to have to transcribe that for myself 😄
 - 00:59:10	Kushan :	How are you planning to keep things from outside in sync ? For example , I delete a tweet after I have pulled it in to unigraph
-  00:59:31	@chadkoh:	Can/will we be able to open multiple windows/tabs simultaneously?
-  01:03:45	Boris Mann:	I can imagine pointing this at a collection of markdown files
-  01:04:03	Boris Mann:	Everything is a sync problem 🙂
-  01:04:05	Jess Martin:	☝️ this
-  01:04:07	Boris Mann:	Or a search problem.
-  01:06:08	Tanner Seidman:	I wonder how difficult it would be to make a plugin for the different methods, like org-roam or logseq
-  01:06:14	Tudor Girba:	thank you! great work!
+- 00:59:31	@chadkoh:	Can/will we be able to open multiple windows/tabs simultaneously?
+- 01:03:45	Boris Mann:	I can imagine pointing this at a collection of markdown files
+- 01:04:03	Boris Mann:	Everything is a sync problem 🙂
+- 01:04:05	Jess Martin:	☝️ this
+- 01:04:07	Boris Mann:	Or a search problem.
+- 01:06:08	Tanner Seidman:	I wonder how difficult it would be to make a plugin for the different methods, like org-roam or logseq
+- 01:06:14	Tudor Girba:	thank you! great work!
   01:06:16	Tanner Seidman:	Thanks!
   01:06:19	Jack Park:	Thanks Sophia!
   01:06:31	Boris Mann:	Sync: depends on the API in part
