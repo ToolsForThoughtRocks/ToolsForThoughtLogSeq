@@ -63,16 +63,16 @@
 - 01:32:27	Bill Seitz:	mentality kinda reminds me of Emails → OrgMode, etc.
 - 01:33:15	Bill Seitz:	(“Emails” → Emacs)
 - 01:33:51	Sophia Xu:	^^
-  01:34:19	Jess Martin:	again, seems like we're moving from TFT -> Operating System. Which I *love* to see. "Lepiter became the core" is super interesting.
-  01:35:23	Rob Haisfield:	Newmacs
-  01:36:09	Jess Martin:	The emacs / orgmode reference is apropos - seems like emacs user just default to extending emacs to support their use case rather than having to leave the "environment" they're in
-  01:36:26	Jess Martin:	*users
-  01:37:28	Bill Seitz:	I wonder whether we’re waiting for equivalent to be based on a Functional language….
-  01:38:05	Jess Martin:	@Bill can you say more about that?
-  01:38:06	Rob Haisfield:	Bill can you elaborate on that? What’s the difference between this sort of thing being object oriented like Pharo-based Lepiter and functional?
-  01:38:33	Bill Seitz:	I’m not sure… just feels like Smalltalk is the Nuclear Fusion of languages/stacks.
-  01:38:39	Bill Seitz:	always 20 years away
-  01:38:47	Jess Martin:	programming = executable philosophy ❤️
+- 01:34:19	Jess Martin:	again, seems like we're moving from TFT -> Operating System. Which I *love* to see. "Lepiter became the core" is super interesting.
+- 01:35:23	Rob Haisfield:	Newmacs
+- 01:36:09	Jess Martin:	The emacs / orgmode reference is apropos - seems like emacs user just default to extending emacs to support their use case rather than having to leave the "environment" they're in
+- 01:36:26	Jess Martin:	*users
+- 01:37:28	Bill Seitz:	I wonder whether we’re waiting for equivalent to be based on a Functional language….
+- 01:38:05	Jess Martin:	@Bill can you say more about that?
+- 01:38:06	Rob Haisfield:	Bill can you elaborate on that? What’s the difference between this sort of thing being object oriented like Pharo-based Lepiter and functional?
+- 01:38:33	Bill Seitz:	I’m not sure… just feels like Smalltalk is the Nuclear Fusion of languages/stacks.
+- 01:38:39	Bill Seitz:	always 20 years away
+- 01:38:47	Jess Martin:	programming = executable philosophy ❤️
   01:38:54	Jess Martin:	@bill hahah got it
   01:40:02	Bill Seitz:	And I feel like the Next Thing needs to be cloud-native…. http://webseitz.fluxent.com/wiki/PersonalCloud
   01:40:44	Bill Seitz:	So a dumb phone can be a client.
