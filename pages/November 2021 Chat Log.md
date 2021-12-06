@@ -73,26 +73,26 @@
 - 01:38:33	Bill Seitz:	I’m not sure… just feels like Smalltalk is the Nuclear Fusion of languages/stacks.
 - 01:38:39	Bill Seitz:	always 20 years away
 - 01:38:47	Jess Martin:	programming = executable philosophy ❤️
-  01:38:54	Jess Martin:	@bill hahah got it
-  01:40:02	Bill Seitz:	And I feel like the Next Thing needs to be cloud-native…. http://webseitz.fluxent.com/wiki/PersonalCloud
-  01:40:44	Bill Seitz:	So a dumb phone can be a client.
-  01:40:59	Bill Seitz:	(Actually, not Dumb, just Locked)
-  01:41:00	Boris Mann:	Blogging / social media brought people to a wider discourse (For good and ill)
-  01:41:10	Boris Mann:	This feels like “citizen programming” in a similar way
-  01:41:36	Boris Mann:	TFT feels connected to blogging, but when you start programming it becomes a different thing
-  01:42:24	Jess Martin:	strong agree with Bill re: cloud-native. "local-first" is a nice tag line, but it should really be "distributed-first" or something along those lines. "local-first" is often opposed to "cloud-first."
-  01:43:03	Tanner Seidman:	Or ideally, for me at least- local-cloud first
-  01:43:05	Jess Martin:	@boris: I think of "simulation" as the bridge between thinking and programming. If I'm not trying to engineer a production _thing_, but I'm reasoning about some ideas, I might want to use some code to simulate something about the knowledge.
-  01:43:15	Boris Mann:	That’s a programmer view
-  01:43:32	Jess Martin:	maybe. financial analysts take that view.
-  01:43:33	Boris Mann:	I’m trying to figure out how a mass market user base begins to do these things more … or if they will
-  01:43:47	Rob Haisfield:	^Jess yes. When Tudor first demoed Lepiter to me, I just thought about modeling information moreso than programming
-  01:44:09	Boris Mann:	Definitely like Jupiter notebooks or whatever
-  01:44:11	Bill Seitz:	Spreadsheet as gateway… http://webseitz.fluxent.com/wiki/NoCode
-  01:44:15	Bill Seitz:	Yes Jupyter
-  01:44:27	wesley:	@Boris, what about TfT curricula in public schools?
-  01:44:27	Boris Mann:	I talked to Dylan Steck / Cortex and he’s playing with spreadsheets and financial / budget data
-  01:44:43	Sophia Xu:	Gotta run but t\hank you Tudor for this amazing presentation!
+- 01:38:54	Jess Martin:	@bill hahah got it
+- 01:40:02	Bill Seitz:	And I feel like the Next Thing needs to be cloud-native…. http://webseitz.fluxent.com/wiki/PersonalCloud
+- 01:40:44	Bill Seitz:	So a dumb phone can be a client.
+- 01:40:59	Bill Seitz:	(Actually, not Dumb, just Locked)
+- 01:41:00	Boris Mann:	Blogging / social media brought people to a wider discourse (For good and ill)
+- 01:41:10	Boris Mann:	This feels like “citizen programming” in a similar way
+- 01:41:36	Boris Mann:	TFT feels connected to blogging, but when you start programming it becomes a different thing
+- 01:42:24	Jess Martin:	strong agree with Bill re: cloud-native. "local-first" is a nice tag line, but it should really be "distributed-first" or something along those lines. "local-first" is often opposed to "cloud-first."
+- 01:43:03	Tanner Seidman:	Or ideally, for me at least- local-cloud first
+- 01:43:05	Jess Martin:	@boris: I think of "simulation" as the bridge between thinking and programming. If I'm not trying to engineer a production _thing_, but I'm reasoning about some ideas, I might want to use some code to simulate something about the knowledge.
+- 01:43:15	Boris Mann:	That’s a programmer view
+- 01:43:32	Jess Martin:	maybe. financial analysts take that view.
+- 01:43:33	Boris Mann:	I’m trying to figure out how a mass market user base begins to do these things more … or if they will
+- 01:43:47	Rob Haisfield:	^Jess yes. When Tudor first demoed Lepiter to me, I just thought about modeling information moreso than programming
+- 01:44:09	Boris Mann:	Definitely like Jupiter notebooks or whatever
+- 01:44:11	Bill Seitz:	Spreadsheet as gateway… http://webseitz.fluxent.com/wiki/NoCode
+- 01:44:15	Bill Seitz:	Yes Jupyter
+- 01:44:27	wesley:	@Boris, what about TfT curricula in public schools?
+- 01:44:27	Boris Mann:	I talked to Dylan Steck / Cortex and he’s playing with spreadsheets and financial / budget data
+- 01:44:43	Sophia Xu:	Gotta run but t\hank you Tudor for this amazing presentation!
   01:44:46	Boris Mann:	So all of a sudden your grocery bill and shopping lists … a very personal item … becomes programmable
   01:44:58	Boris Mann:	Thanks Sophia — we’ll get your slides and post in a week or so.
   01:45:33	Bill Seitz:	Spreadsheet as fundamental UI pattern?
