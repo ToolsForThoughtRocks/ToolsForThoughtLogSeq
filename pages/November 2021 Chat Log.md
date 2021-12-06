@@ -44,8 +44,8 @@
 - 01:20:11	Boris Mann:	Lepiter https://lepiter.com
 - 01:22:16	Jess Martin:	...of searching for a missing semicolon for 8 hours...
 - 01:22:58	Bill Seitz:	composability, etc.
-  01:23:11	Bill Seitz:	fix your thoughts in production
-  01:23:30	Jess Martin:	think by coding
+- 01:23:11	Bill Seitz:	fix your thoughts in production
+- 01:23:30	Jess Martin:	think by coding
   01:24:26	Jess Martin:	he could make it scroll pixel by pixel instead of line-by-line ;)
   01:24:44	Boris Mann:	https://www.youtube.com/watch?v=MCVj5RZOqwY
   01:24:56	Bill Seitz:	http://webseitz.fluxent.com/wiki/DabbleDB
