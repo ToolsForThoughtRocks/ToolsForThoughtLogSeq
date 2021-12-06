@@ -46,8 +46,8 @@
 - 01:22:58	Bill Seitz:	composability, etc.
 - 01:23:11	Bill Seitz:	fix your thoughts in production
 - 01:23:30	Jess Martin:	think by coding
-  01:24:26	Jess Martin:	he could make it scroll pixel by pixel instead of line-by-line ;)
-  01:24:44	Boris Mann:	https://www.youtube.com/watch?v=MCVj5RZOqwY
+- 01:24:26	Jess Martin:	he could make it scroll pixel by pixel instead of line-by-line ;)
+- 01:24:44	Boris Mann:	https://www.youtube.com/watch?v=MCVj5RZOqwY
   01:24:56	Bill Seitz:	http://webseitz.fluxent.com/wiki/DabbleDB
   01:25:44	Boris Mann:	I should just have a redirect where if my system doesn’t have a slug, it just goes to Bill’s site!
   01:26:05	Jess Martin:	that's an amazing idea
