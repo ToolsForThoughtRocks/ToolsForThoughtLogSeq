@@ -33,9 +33,9 @@
 - 01:06:16	Tanner Seidman:	Thanks!
 - 01:06:19	Jack Park:	Thanks Sophia!
 - 01:06:31	Boris Mann:	Sync: depends on the API in part
-  01:06:46	@chadkoh:	Great job Sophia 👏 👏 👏
-  01:07:00	Marc-Antoine Parent:	Very impressive!
-  01:07:28	Michael Gartner:	Ctrl-A
+- 01:06:46	@chadkoh:	Great job Sophia 👏 👏 👏
+- 01:07:00	Marc-Antoine Parent:	Very impressive!
+- 01:07:28	Michael Gartner:	Ctrl-A
   01:07:34	Michael Gartner:	maybe
   01:07:51	Michael Gartner:	nevermind
   01:16:02	Jess Martin:	the similarities between GToolkit and Unigraph, at least in spirit, are fascinating... amazing watching these two back-to-back
