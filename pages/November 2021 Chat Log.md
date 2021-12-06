@@ -4,8 +4,8 @@
 - 00:19:15	Bill Seitz:	http://webseitz.fluxent.com/wiki/WebsOfThinkersAndThoughts
 - 00:29:04	Boris Mann:	Are things like calendars / calendar events a first class type?
 - 00:34:07	Jess Martin:	ohhhh I love this - I've wanted to build a customizable "home page" for myself for a while
-  00:34:13	Bill Seitz:	What can I do on my phone?
-  00:34:32	Boris Mann:	@bill Electron only today I believe
+- 00:34:13	Bill Seitz:	What can I do on my phone?
+- 00:34:32	Boris Mann:	@bill Electron only today I believe
   00:34:42	Jack Park:	Wow!
   00:36:51	Jack Park:	https://github.com/unigraph-dev
   00:37:14	Jess Martin:	Reminds me of Rosano's home-grown queueing systems he set up for the different "intakes" he has: podcasts, yt videos, tweets, etc
