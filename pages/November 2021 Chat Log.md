@@ -6,12 +6,13 @@
 - 00:34:07	Jess Martin:	ohhhh I love this - I've wanted to build a customizable "home page" for myself for a while
 - 00:34:13	Bill Seitz:	What can I do on my phone?
 - 00:34:32	Boris Mann:	@bill Electron only today I believe
-  00:34:42	Jack Park:	Wow!
-  00:36:51	Jack Park:	https://github.com/unigraph-dev
-  00:37:14	Jess Martin:	Reminds me of Rosano's home-grown queueing systems he set up for the different "intakes" he has: podcasts, yt videos, tweets, etc
-  00:38:08	Jess Martin:	WOOO edit the app inside the app!
-  00:41:58	Jess Martin:	oh dang, that's nice
-  00:46:14	Sophia Xu:	Project home: https://unigraph.dev/
+- 00:34:42	Jack Park:	Wow!
+- 00:36:51	Jack Park:	https://github.com/unigraph-dev
+- 00:37:14	Jess Martin:	Reminds me of Rosano's home-grown queueing systems he set up for the
+- different "intakes" he has: podcasts, yt videos, tweets, etc
+- 00:38:08	Jess Martin:	WOOO edit the app inside the app!
+- 00:41:58	Jess Martin:	oh dang, that's nice
+- 00:46:14	Sophia Xu:	Project home: https://unigraph.dev/
   Discord community: https://discord.gg/vDTkKar5Vz
   Waiting list sign-up: https://docs.google.com/forms/d/e/1FAIpQLSfmS1BUZNF6wprSGU08XpCcM-UWh5BEMwuQ8gweBGIH7SSD8w/viewform?usp=sf_link
   My Twitter: https://twitter.com/thesophiaxu
