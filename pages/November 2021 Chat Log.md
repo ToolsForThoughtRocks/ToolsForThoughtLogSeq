@@ -42,8 +42,8 @@
 - 01:18:16	Bill Seitz:	cf http://webseitz.fluxent.com/wiki/LiterateProgramming
 - 01:19:22	Bill Seitz:	TheoryBuilding http://webseitz.fluxent.com/wiki/2011-04-20-LeanAgileProductionVsTheoryBuilding
 - 01:20:11	Boris Mann:	Lepiter https://lepiter.com
-  01:22:16	Jess Martin:	...of searching for a missing semicolon for 8 hours...
-  01:22:58	Bill Seitz:	composability, etc.
+- 01:22:16	Jess Martin:	...of searching for a missing semicolon for 8 hours...
+- 01:22:58	Bill Seitz:	composability, etc.
   01:23:11	Bill Seitz:	fix your thoughts in production
   01:23:30	Jess Martin:	think by coding
   01:24:26	Jess Martin:	he could make it scroll pixel by pixel instead of line-by-line ;)
