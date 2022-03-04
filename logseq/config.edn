@@ -147,4 +147,5 @@
  :macros {}
 
  :markdown/version 2
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :feature/enable-timetracking? true}
