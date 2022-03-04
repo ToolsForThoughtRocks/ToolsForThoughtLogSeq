@@ -146,4 +146,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
 
- :markdown/version 2}
+ :markdown/version 2
+ :publishing/all-pages-public? true}
