@@ -1,3 +1,5 @@
+tags:: event, monthly-meeting
+
 - [[October 2021 Chat Log]]
 - Lobby Chatter
 	- Let's try different collaborative apps, like [[Sprout]] that Wei Wei builds
