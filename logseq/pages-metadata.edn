@@ -52,6 +52,9 @@
  {:block/name "bill seitz",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "blockchain dialogues",
+  :block/created-at 1668454359470,
+  :block/updated-at 1668454359470}
  {:block/name "boris",
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
@@ -321,7 +324,7 @@
   :block/updated-at 1668391582548}
  {:block/name "nov 14th, 2022",
   :block/created-at 1668448867200,
-  :block/updated-at 1668453785739}
+  :block/updated-at 1668454359472}
  {:block/name "nov 30th, 2021",
   :block/created-at 1638230400000,
   :block/updated-at 1638230400000}
