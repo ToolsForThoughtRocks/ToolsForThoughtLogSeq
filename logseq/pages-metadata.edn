@@ -323,8 +323,8 @@
   :block/created-at 1668382703663,
   :block/updated-at 1668391582548}
  {:block/name "nov 14th, 2022",
-  :block/created-at 1668448867200,
-  :block/updated-at 1668464183473}
+  :block/created-at 1668466686678,
+  :block/updated-at 1668466686678}
  {:block/name "nov 30th, 2021",
   :block/created-at 1638230400000,
   :block/updated-at 1638230400000}
@@ -352,6 +352,9 @@
  {:block/name "october 2021 meeting",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "on",
+  :block/created-at 1668466656716,
+  :block/updated-at 1668466656716}
  {:block/name "open collective",
   :block/created-at 1668391493078,
   :block/updated-at 1668391493078}
