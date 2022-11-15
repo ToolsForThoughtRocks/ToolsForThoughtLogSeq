@@ -1,2 +1,0 @@
-- Very interested in distributed / p2p technologies.
-- Wonders if "the way of the git" can be used in live and async collaboration tools.

@@ -1,4 +1,0 @@
-- Upcoming
-	- [[August 2021 Meeting]]
-- Past
-	- [[July 2021 Meeting]]

@@ -1,8 +1,0 @@
-link:: https://wiki.social.coop/How-to-make-the-fediverse-your-own.html
-
-- tags:: #fediverse, #mastodon, #[[Social Coop]]
-- Welcome to the fediverse! The [fediverse](https://en.wikipedia.org/wiki/Fediverse) is a network of social spaces that we the users can govern for ourselves. This is a guide to help you do that—because the technology won't do it for you. This is a love letter from your friends at [Social.coop](http://social.coop/), which has been running (and enjoying!) a democratically governed social media space with Mastodon since 2017.
-- As many people are coming to the fediverse from birdsite (that's what we call Twitter), it's important that we be intentional. A Mastodon server is just a tool, not a solution. There are [lots of other fediverse tools](https://fediverse.party/en/miscellaneous/) out there as well. But what matters above all is how we use that tool, and how we co-govern it. If everyone just all joins the same server, we will probably end up with something worse than Twitter. Lots of servers, also, are run by admins who do not necessarily have accountability to their users. For the move to the fediverse to truly be a step toward better social media, we need to be intentional about how we organize ourselves with it.
-- In what follows, we share some practices based on our experience, which we hope might be useful for your community. But we're "[just sharing](https://justsharing.dev/)"! We are excited to learn from what you end up doing differently.
-- **TLDR: A democratic fediverse involves intentionally setting up democratic governance, democratic economics, and democratic community. It's fun!**
--
