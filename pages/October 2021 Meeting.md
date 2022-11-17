@@ -1,3 +1,4 @@
+date:: [[Oct 29th, 2021]] 
 tags:: event, monthly-meeting
 
 - [[October 2021 Chat Log]]
