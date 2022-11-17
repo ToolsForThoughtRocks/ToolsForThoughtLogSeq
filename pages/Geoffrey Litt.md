@@ -1,2 +1,3 @@
-link:: https://www.geoffreylitt.com
 tags:: #person, #speaker
+
+- link:: https://www.geoffreylitt.com

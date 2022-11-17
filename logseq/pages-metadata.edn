@@ -4,6 +4,9 @@
  {:block/name "a big list of mastodon resources",
   :block/created-at 1668387176566,
   :block/updated-at 1668387813711}
+ {:block/name "about",
+  :block/created-at 1668669310225,
+  :block/updated-at 1668669707790}
  {:block/name "activitypub",
   :block/created-at 1668387835838,
   :block/updated-at 1668387835838}
@@ -37,6 +40,9 @@
  {:block/name "august 2021 meeting",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "australia",
+  :block/created-at 1668670251310,
+  :block/updated-at 1668670251310}
  {:block/name "author",
   :block/created-at 1660672020753,
   :block/updated-at 1660672020753}
@@ -52,15 +58,12 @@
  {:block/name "bill seitz",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "blockchain dialogues",
-  :block/created-at 1668454359470,
-  :block/updated-at 1668454359470}
  {:block/name "boris",
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
  {:block/name "boris mann",
   :block/created-at 1646357158471,
-  :block/updated-at 1646357158471}
+  :block/updated-at 1668670319749}
  {:block/name "brooklyn zelenka",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -94,12 +97,12 @@
  {:block/name "cloudflare r2",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "come join me on mastodon, folks",
-  :block/created-at 1668387240896,
-  :block/updated-at 1668387240896}
+ {:block/name "colophon",
+  :block/created-at 1668669381914,
+  :block/updated-at 1668669778173}
  {:block/name "contents",
   :block/created-at 1668474726930,
-  :block/updated-at 1668474726930}
+  :block/updated-at 1668669825904}
  {:block/name "cory doctorow",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -130,6 +133,9 @@
  {:block/name "done",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "donor",
+  :block/created-at 1668670229059,
+  :block/updated-at 1668670229059}
  {:block/name "elixirconf 2021",
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
@@ -142,6 +148,9 @@
  {:block/name "event listing",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "events",
+  :block/created-at 1668669825903,
+  :block/updated-at 1668669979566}
  {:block/name "everything i know about mastodon",
   :block/created-at 1668386360969,
   :block/updated-at 1668386517092}
@@ -178,9 +187,6 @@
  {:block/name "flancian",
   :block/created-at 1668387651287,
   :block/updated-at 1668387651287}
- {:block/name "for thought",
-  :block/created-at 1668474725978,
-  :block/updated-at 1668474725978}
  {:block/name "frode hegland",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -189,7 +195,7 @@
   :block/updated-at 1646357158471}
  {:block/name "geoffrey litt",
   :block/created-at 1646357158471,
-  :block/updated-at 1646357158471}
+  :block/updated-at 1668670276454}
  {:block/name "git",
   :block/created-at 1660672020847,
   :block/updated-at 1660672020847}
@@ -208,12 +214,6 @@
  {:block/name "hometown",
   :block/created-at 1668388148807,
   :block/updated-at 1668388148807}
- {:block/name "how to leave twitte and switch to mastodon",
-  :block/created-at 1668387274492,
-  :block/updated-at 1668387274492}
- {:block/name "how to leave twitter for mastodon",
-  :block/created-at 1668387263398,
-  :block/updated-at 1668387263398}
  {:block/name "how to make the fediverse your own",
   :block/created-at 1668474726326,
   :block/updated-at 1668474726326}
@@ -300,13 +300,16 @@
   :block/updated-at 1668474726586}
  {:block/name "luma",
   :block/created-at 1646357158471,
-  :block/updated-at 1646357158471}
+  :block/updated-at 1668670010747}
  {:block/name "lumalink",
   :block/created-at 1660672021394,
   :block/updated-at 1660672021394}
  {:block/name "marc-antoine parent",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "mark upton",
+  :block/created-at 1668668807477,
+  :block/updated-at 1668670253542}
  {:block/name "mastodon",
   :block/created-at 1668385921645,
   :block/updated-at 1668385921645}
@@ -325,9 +328,9 @@
  {:block/name "nov 13th, 2022",
   :block/created-at 1668382703663,
   :block/updated-at 1668391582548}
- {:block/name "nov 14th, 2022",
-  :block/created-at 1668466686678,
-  :block/updated-at 1668466686678}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668668543249,
+  :block/updated-at 1668670386670}
  {:block/name "nov 30th, 2021",
   :block/created-at 1638230400000,
   :block/updated-at 1638230400000}
@@ -355,9 +358,6 @@
  {:block/name "october 2021 meeting",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "on",
-  :block/created-at 1668466656716,
-  :block/updated-at 1668466656716}
  {:block/name "open collective",
   :block/created-at 1668391493078,
   :block/updated-at 1668391493078}
@@ -408,7 +408,7 @@
   :block/updated-at 1646357158471}
  {:block/name "rosano",
   :block/created-at 1646357158471,
-  :block/updated-at 1646357158471}
+  :block/updated-at 1668670207296}
  {:block/name "sindre sorhus",
   :block/created-at 1646357158470,
   :block/updated-at 1646357158470}
@@ -442,9 +442,6 @@
  {:block/name "todo",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "tool",
-  :block/created-at 1668474725978,
-  :block/updated-at 1668474725978}
  {:block/name "tool for thought",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -456,16 +453,13 @@
   :block/updated-at 1668388284805}
  {:block/name "tools for thought rocks",
   :block/created-at 1668474726920,
-  :block/updated-at 1668474726920}
+  :block/updated-at 1668669340900}
  {:block/name "tools for thought rocks logseq",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "tools for thought rocks open collective",
   :block/created-at 1668391470219,
   :block/updated-at 1668391496857}
- {:block/name "toolsforthoughtrocks",
-  :block/created-at 1668474726916,
-  :block/updated-at 1668474726916}
  {:block/name "twitter",
   :block/created-at 1660672021350,
   :block/updated-at 1660672021350}
@@ -475,9 +469,6 @@
  {:block/name "video",
   :block/created-at 1660672020917,
   :block/updated-at 1660672020917}
- {:block/name "vimeo",
-  :block/created-at 1668463378644,
-  :block/updated-at 1668463378644}
  {:block/name "vint cerf",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -496,9 +487,6 @@
  {:block/name "walkah",
   :block/created-at 1668391236897,
   :block/updated-at 1668391236897}
- {:block/name "welcome to mastodon",
-  :block/created-at 1668387247603,
-  :block/updated-at 1668387247603}
  {:block/name "wetware of writing and doing",
   :block/created-at 1668474726605,
   :block/updated-at 1668474726605}
