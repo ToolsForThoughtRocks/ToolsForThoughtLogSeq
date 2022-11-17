@@ -1,0 +1,6 @@
+- This site is managed with #LogSeq
+- The source lives in the [[Tools for Thought Rocks]] Github organization at https://github.com/ToolsForThoughtRocks/ToolsForThoughtLogSeq
+- Alternately, you can request be added to a Dropbox folder that contains a checkout of the site for easier editing that doesn't have to mean learning git
+- There is a build script that turns it into static pages that are published via Github Pages
+- You can access it via https://notes.toolsforthought.rocks
+- The domain is registered at and has DNS hosted by Google Domains

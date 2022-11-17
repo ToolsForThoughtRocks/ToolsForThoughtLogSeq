@@ -150,4 +150,4 @@
  :publishing/all-pages-public? true
  :feature/enable-timetracking? true
  :feature/enable-flashcards? false
- :favorites []}
+ :favorites ["Mastodon Resources"]}
