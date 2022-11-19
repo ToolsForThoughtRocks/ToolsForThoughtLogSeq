@@ -3,6 +3,5 @@
 - Alternately, you can request be added to a Dropbox folder that contains a checkout of the site for easier editing that doesn't have to mean learning git
 - There is a build script that turns it into static pages that are published via Github Pages
 - You can access it via https://notes.toolsforthought.rocks
-- The domain is registered at and has DNS hosted by Google Domains
-	- [[Boris Mann]] and [[Jess Martin]] have full permissions over it
-	-
+- {{embed ((63792362-9130-4138-ac94-31e5c6ff7708))}}
+-

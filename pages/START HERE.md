@@ -1,10 +1,10 @@
 - [[README]]
-- People
+- [[People]]
 	- [[Speaker Listing]]
 - Events
 	- [[Event Listing]]
 	- [[Monthly Meetings]]
 - TODOS
-	- TODO Define: Required Speaker / Person Properties
-	- TODO Define: Required Event / Monthly Meeting Properties
+	- TODO Define: [[Required Speaker / Person Properties]]
+	- TODO Define: [[Required Event / Monthly Meeting Properties]]
 	-

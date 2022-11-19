@@ -1,1 +1,15 @@
--
+- This is all of the infrastructure, from people, to tools, to access, that helps run the [[Tools for Thought Rocks]] community
+- Current organizers are  [[Christina Bowen]], [[Boris Mann]], and [[Jess Martin]]
+	- Anyone can propose / organize events!
+	- What else can we do together?
+- [[Luma]] https://lu.ma/toolsforthoughtrocks is the link for the community page on Luma
+	- There is also a shared org account https://lu.ma/toolsforthought
+- [[github]] https://github.com/ToolsForThoughtRocks
+- Youtube https://youtube.com/@toolsforthought
+- [[Open Collective]] https://opencollective.com/toolsforthought
+- [[Tools For Thought Mastodon]] https://toolsforthought.rocks
+- The domain is registered at and has DNS hosted by [[Google Domains]]
+  id:: 63792362-9130-4138-ac94-31e5c6ff7708
+	- [[Boris Mann]] and [[Jess Martin]] have full permissions over it
+- The [[Colophon]] describes the infrastructure for this [[TFTRocks Notes]] site
+- Paid [[Zoom]] account for [[Jess Martin]] and [[Boris Mann]] as part of working at [[Fission]]
