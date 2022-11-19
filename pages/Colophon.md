@@ -4,3 +4,5 @@
 - There is a build script that turns it into static pages that are published via Github Pages
 - You can access it via https://notes.toolsforthought.rocks
 - The domain is registered at and has DNS hosted by Google Domains
+	- [[Boris Mann]] and [[Jess Martin]] have full permissions over it
+	-

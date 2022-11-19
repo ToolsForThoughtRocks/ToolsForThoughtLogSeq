@@ -1,5 +1,7 @@
 - [[About]]
+- [[People]]
 - [[Events]]
 - [[Tools For Thought Mastodon]]
 	- [[Mastodon Resources]]
+- [[Community Infrastructure]]
 - [[Colophon]]
