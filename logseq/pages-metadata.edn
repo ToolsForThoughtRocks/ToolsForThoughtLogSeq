@@ -1,9 +1,6 @@
 [{:block/name "62bcd24d-7ae0-42f9-bc4e-650d0b35559f",
   :block/created-at 1656545609213,
   :block/updated-at 1656545609213}
- {:block/name "63792362-9130-4138-ac94-31e5c6ff7708",
-  :block/created-at 1668988498279,
-  :block/updated-at 1668988498279}
  {:block/name "a",
   :block/created-at 1646357158470,
   :block/updated-at 1646357158470}
@@ -11,17 +8,14 @@
   :block/created-at 1668387176566,
   :block/updated-at 1668387813711}
  {:block/name "about",
-  :block/created-at 1668669310225,
-  :block/updated-at 1668669707790}
+  :block/created-at 1668908457562,
+  :block/updated-at 1668908457562}
  {:block/name "activitypub",
   :block/created-at 1668387835838,
   :block/updated-at 1668387835838}
- {:block/name "add your person page",
-  :block/created-at 1668988497991,
-  :block/updated-at 1668988497991}
  {:block/name "alexander obernauer",
-  :block/created-at 1668727668318,
-  :block/updated-at 1668727668318}
+  :block/created-at 1668908458161,
+  :block/updated-at 1668908458161}
  {:block/name "amazon s3",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -32,11 +26,11 @@
   :block/created-at 1646357158472,
   :block/updated-at 1646357158472}
  {:block/name "apr 28th, 2022",
-  :block/created-at 1668728096435,
-  :block/updated-at 1668728096435}
+  :block/created-at 1668908457421,
+  :block/updated-at 1668908457421}
  {:block/name "april 2022 meeting",
-  :block/created-at 1668727801899,
-  :block/updated-at 1668728096455}
+  :block/created-at 1668908457429,
+  :block/updated-at 1668908457429}
  {:block/name "aug 16th, 2021",
   :block/created-at 1629072000000,
   :block/updated-at 1656545762548}
@@ -47,8 +41,8 @@
   :block/created-at 1629849600000,
   :block/updated-at 1629849600000}
  {:block/name "aug 9th, 2022",
-  :block/created-at 1668728562399,
-  :block/updated-at 1668728562399}
+  :block/created-at 1668908458291,
+  :block/updated-at 1668908458291}
  {:block/name "augmented text author",
   :block/created-at 1646357158470,
   :block/updated-at 1646357158470}
@@ -62,8 +56,11 @@
   :block/created-at 1646357158471,
   :block/updated-at 1656543159343}
  {:block/name "australia",
-  :block/created-at 1668670251310,
-  :block/updated-at 1668670251310}
+  :block/created-at 1668908457824,
+  :block/updated-at 1668908457824}
+ {:block/name "author",
+  :block/created-at 1660672020753,
+  :block/updated-at 1660672020753}
  {:block/name "avi bryant",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -74,11 +71,14 @@
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "bear theme",
-  :block/created-at 1668711695550,
-  :block/updated-at 1668711695550}
+  :block/created-at 1668908457349,
+  :block/updated-at 1668908457349}
  {:block/name "bill seitz",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "blockchain dialogues",
+  :block/created-at 1668454359470,
+  :block/updated-at 1668454359470}
  {:block/name "boris",
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
@@ -94,12 +94,18 @@
  {:block/name "c",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "canceled",
+  :block/created-at 1660672712784,
+  :block/updated-at 1660672712784}
+ {:block/name "cancelled",
+  :block/created-at 1660672712784,
+  :block/updated-at 1660672712784}
  {:block/name "card",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "charles chamberlain",
-  :block/created-at 1668728909369,
-  :block/updated-at 1668728909369}
+  :block/created-at 1668908458208,
+  :block/updated-at 1668908458208}
  {:block/name "chatlog",
   :block/created-at 1646357158472,
   :block/updated-at 1646357158472}
@@ -118,9 +124,6 @@
  {:block/name "colophon",
   :block/created-at 1668669381914,
   :block/updated-at 1668669778173}
- {:block/name "community infrastructure",
-  :block/created-at 1668988496873,
-  :block/updated-at 1668988496873}
  {:block/name "contents",
   :block/created-at 1668474726930,
   :block/updated-at 1668669825904}
@@ -131,14 +134,17 @@
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "dalton banks",
-  :block/created-at 1668727668321,
-  :block/updated-at 1668727668321}
+  :block/created-at 1668908458162,
+  :block/updated-at 1668908458162}
  {:block/name "danielle navarro",
   :block/created-at 1668386381758,
   :block/updated-at 1668386381758}
  {:block/name "darlene dang",
-  :block/created-at 1668728668637,
-  :block/updated-at 1668728668637}
+  :block/created-at 1668908457746,
+  :block/updated-at 1668908457746}
+ {:block/name "date",
+  :block/created-at 1660672020621,
+  :block/updated-at 1660672020621}
  {:block/name "david brooks",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -158,8 +164,8 @@
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "donor",
-  :block/created-at 1668670229059,
-  :block/updated-at 1668670229059}
+  :block/created-at 1668908457347,
+  :block/updated-at 1668908457347}
  {:block/name "elixirconf 2021",
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
@@ -173,8 +179,8 @@
   :block/created-at 1646357158471,
   :block/updated-at 1668712117877}
  {:block/name "events",
-  :block/created-at 1668669825903,
-  :block/updated-at 1668669979566}
+  :block/created-at 1668908457801,
+  :block/updated-at 1668908457801}
  {:block/name "everything i know about mastodon",
   :block/created-at 1668386360969,
   :block/updated-at 1668386517092}
@@ -188,11 +194,11 @@
   :block/created-at 1582416000000,
   :block/updated-at 1582416000000}
  {:block/name "feb 23rd, 2022",
-  :block/created-at 1668727668317,
-  :block/updated-at 1668727668317}
+  :block/created-at 1668908458161,
+  :block/updated-at 1668908458161}
  {:block/name "february 2022 meeting",
-  :block/created-at 1668727561090,
-  :block/updated-at 1668727668337}
+  :block/created-at 1668908458169,
+  :block/updated-at 1668908458169}
  {:block/name "federated hosting by spacebear",
   :block/created-at 1668388122374,
   :block/updated-at 1668388216405}
@@ -217,6 +223,9 @@
  {:block/name "flancian",
   :block/created-at 1668387651287,
   :block/updated-at 1668387651287}
+ {:block/name "for thought",
+  :block/created-at 1668474725978,
+  :block/updated-at 1668474725978}
  {:block/name "frode hegland",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -226,15 +235,9 @@
  {:block/name "geoffrey litt",
   :block/created-at 1646357158471,
   :block/updated-at 1668670276454}
- {:block/name "github",
-  :block/created-at 1668988498331,
-  :block/updated-at 1668988498331}
- {:block/name "google domains",
-  :block/created-at 1668988498335,
-  :block/updated-at 1668988498335}
  {:block/name "gordon brander",
-  :block/created-at 1668727771971,
-  :block/updated-at 1668727771971}
+  :block/created-at 1668908458448,
+  :block/updated-at 1668908458448}
  {:block/name "gsheet mastodon open servers english 5k+ active users",
   :block/created-at 1668474726275,
   :block/updated-at 1668474726275}
@@ -244,28 +247,18 @@
  {:block/name "hometown",
   :block/created-at 1668388148807,
   :block/updated-at 1668388148807}
- {:block/name
-  "how long can the tftrocks mastodon server be relied upon?",
-  :block/created-at 1668988496867,
-  :block/updated-at 1668988496867}
- {:block/name "how to add content to the tftrocks notes site",
-  :block/created-at 1668988497929,
-  :block/updated-at 1668988497929}
  {:block/name "how to make the fediverse your own",
   :block/created-at 1668474726326,
   :block/updated-at 1668474726326}
  {:block/name "howard rheingold",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "howto",
-  :block/created-at 1668988498886,
-  :block/updated-at 1668988498886}
  {:block/name "hugo",
   :block/created-at 1668389310486,
   :block/updated-at 1668389310486}
  {:block/name "hunter clarke",
-  :block/created-at 1668728096438,
-  :block/updated-at 1668728096438}
+  :block/created-at 1668908457422,
+  :block/updated-at 1668908457422}
  {:block/name "hyperdraft",
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
@@ -285,11 +278,11 @@
   :block/created-at 1668391227179,
   :block/updated-at 1668391236897}
  {:block/name "jan 27th, 2022",
-  :block/created-at 1668727383624,
-  :block/updated-at 1668727383624}
+  :block/created-at 1668908457048,
+  :block/updated-at 1668908457048}
  {:block/name "january 2022 meeting",
-  :block/created-at 1668727096543,
-  :block/updated-at 1668727514224}
+  :block/created-at 1668908457055,
+  :block/updated-at 1668908457055}
  {:block/name "jared pereira",
   :block/created-at 1646357158472,
   :block/updated-at 1656541914523}
@@ -317,6 +310,9 @@
  {:block/name "jun 15th, 2021",
   :block/created-at 1623715200000,
   :block/updated-at 1623715200000}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1656541775347,
+  :block/updated-at 1656541775347}
  {:block/name "justin johnson",
   :block/created-at 1668391227179,
   :block/updated-at 1668391227179}
@@ -326,6 +322,9 @@
  {:block/name "later",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "link",
+  :block/created-at 1660672020618,
+  :block/updated-at 1660672020618}
  {:block/name "linus lee",
   :block/created-at 1646357158471,
   :block/updated-at 1656542027342}
@@ -347,21 +346,24 @@
  {:block/name "luma",
   :block/created-at 1646357158471,
   :block/updated-at 1668670010747}
+ {:block/name "lumalink",
+  :block/created-at 1660672021394,
+  :block/updated-at 1660672021394}
  {:block/name "maggie appleton",
-  :block/created-at 1668728096436,
-  :block/updated-at 1668728096436}
+  :block/created-at 1668908457421,
+  :block/updated-at 1668908457421}
  {:block/name "mar 30th, 2022",
-  :block/created-at 1668727771970,
-  :block/updated-at 1668727771970}
+  :block/created-at 1668908458448,
+  :block/updated-at 1668908458448}
  {:block/name "marc-antoine parent",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "march 2022 meeting",
-  :block/created-at 1668727716958,
-  :block/updated-at 1668727771983}
+  :block/created-at 1668908458454,
+  :block/updated-at 1668908458454}
  {:block/name "mark upton",
-  :block/created-at 1668668807477,
-  :block/updated-at 1668670253542}
+  :block/created-at 1668908457342,
+  :block/updated-at 1668908457342}
  {:block/name "mastodon",
   :block/created-at 1668385921645,
   :block/updated-at 1668385921645}
@@ -369,11 +371,11 @@
   :block/created-at 1668386204605,
   :block/updated-at 1668387176567}
  {:block/name "may 2022 meeting",
-  :block/created-at 1668728109138,
-  :block/updated-at 1668728364960}
+  :block/created-at 1668908458230,
+  :block/updated-at 1668908458230}
  {:block/name "may 26th, 2022",
-  :block/created-at 1668728364942,
-  :block/updated-at 1668728364942}
+  :block/created-at 1668908458223,
+  :block/updated-at 1668908458223}
  {:block/name "meeting notes",
   :block/created-at 1646357158470,
   :block/updated-at 1646357158470}
@@ -384,29 +386,29 @@
   :block/created-at 1668387477941,
   :block/updated-at 1668387651288}
  {:block/name "monthly meetings",
-  :block/created-at 1656543626355,
-  :block/updated-at 1656545790848}
+  :block/created-at 1668908457782,
+  :block/updated-at 1668908457782}
  {:block/name "monthly-meeting",
-  :block/created-at 1656543116700,
-  :block/updated-at 1656543116700}
+  :block/created-at 1668908457050,
+  :block/updated-at 1668908457050}
  {:block/name "monthlydonor",
-  :block/created-at 1668711695334,
-  :block/updated-at 1668711695334}
+  :block/created-at 1668908458246,
+  :block/updated-at 1668908458246}
  {:block/name "nov 13th, 2022",
   :block/created-at 1668382703663,
   :block/updated-at 1668391582548}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668466686678,
+  :block/updated-at 1668466686678}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668531662019,
+  :block/updated-at 1668531662019}
  {:block/name "nov 16th, 2022",
-  :block/created-at 1668668543249,
-  :block/updated-at 1668670386670}
+  :block/created-at 1668908457350,
+  :block/updated-at 1668908457350}
  {:block/name "nov 17th, 2022",
   :block/created-at 1668711695049,
   :block/updated-at 1668711695049}
- {:block/name "nov 19th, 2022",
-  :block/created-at 1668988496880,
-  :block/updated-at 1668988496880}
- {:block/name "nov 20th, 2022",
-  :block/created-at 1668988496814,
-  :block/updated-at 1668988496814}
  {:block/name "nov 30th, 2021",
   :block/created-at 1638230400000,
   :block/updated-at 1638230400000}
@@ -423,8 +425,8 @@
   :block/created-at 1646357158473,
   :block/updated-at 1646357158473}
  {:block/name "oct 20th, 2022",
-  :block/created-at 1668728741977,
-  :block/updated-at 1668728741977}
+  :block/created-at 1668908458187,
+  :block/updated-at 1668908458187}
  {:block/name "oct 25th, 2021",
   :block/created-at 1635120000000,
   :block/updated-at 1635120000000}
@@ -432,17 +434,23 @@
   :block/created-at 1635465600000,
   :block/updated-at 1635465600000}
  {:block/name "oct 4th, 2022",
-  :block/created-at 1668728819601,
-  :block/updated-at 1668728819601}
+  :block/created-at 1668908457950,
+  :block/updated-at 1668908457950}
  {:block/name "october 2021 chat log",
   :block/created-at 1668474726782,
   :block/updated-at 1668474726782}
  {:block/name "october 2021 meeting",
   :block/created-at 1646357158471,
   :block/updated-at 1668729049791}
+ {:block/name "on",
+  :block/created-at 1668466656716,
+  :block/updated-at 1668466656716}
  {:block/name "open collective",
   :block/created-at 1668391493078,
   :block/updated-at 1668391493078}
+ {:block/name "opencollective",
+  :block/created-at 1668387966217,
+  :block/updated-at 1668387966217}
  {:block/name "opensource",
   :block/created-at 1668387634874,
   :block/updated-at 1668387634874}
@@ -450,29 +458,23 @@
   :block/created-at 1668391642268,
   :block/updated-at 1668391642268}
  {:block/name "paul rony",
-  :block/created-at 1668728909368,
-  :block/updated-at 1668728909368}
+  :block/created-at 1668908458207,
+  :block/updated-at 1668908458207}
  {:block/name "paul shen",
-  :block/created-at 1668728741981,
-  :block/updated-at 1668728741981}
+  :block/created-at 1668908458188,
+  :block/updated-at 1668908458188}
  {:block/name "peertube",
   :block/created-at 1668388145307,
   :block/updated-at 1668388145307}
- {:block/name "people",
-  :block/created-at 1668988497712,
-  :block/updated-at 1668988497712}
  {:block/name "person",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "pesos",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "peter kaminski",
-  :block/created-at 1668988496869,
-  :block/updated-at 1668988496869}
  {:block/name "pirijan",
-  :block/created-at 1668728668636,
-  :block/updated-at 1668728668636}
+  :block/created-at 1668908457746,
+  :block/updated-at 1668908457746}
  {:block/name "pixelfed",
   :block/created-at 1668388136128,
   :block/updated-at 1668388136128}
@@ -480,14 +482,11 @@
   :block/created-at 1668388154178,
   :block/updated-at 1668388154178}
  {:block/name "pol baladas",
-  :block/created-at 1668728741979,
-  :block/updated-at 1668728741979}
+  :block/created-at 1668908458187,
+  :block/updated-at 1668908458187}
  {:block/name "posse",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
- {:block/name "pr",
-  :block/created-at 1668988496877,
-  :block/updated-at 1668988496877}
  {:block/name "python",
   :block/created-at 1668387634873,
   :block/updated-at 1668387634873}
@@ -497,18 +496,6 @@
  {:block/name "readme",
   :block/created-at 1646357158472,
   :block/updated-at 1646357158472}
- {:block/name "required event ",
-  :block/created-at 1668988500593,
-  :block/updated-at 1668988500593}
- {:block/name "required event / monthly meeting properties",
-  :block/created-at 1668988500591,
-  :block/updated-at 1668988500591}
- {:block/name "required speaker ",
-  :block/created-at 1668988500590,
-  :block/updated-at 1668988500590}
- {:block/name "required speaker / person properties",
-  :block/created-at 1668988500588,
-  :block/updated-at 1668988500588}
  {:block/name "researchbuzz",
   :block/created-at 1668387176565,
   :block/updated-at 1668387176565}
@@ -524,27 +511,24 @@
  {:block/name "robert haisfield",
   :block/created-at 1668728562402,
   :block/updated-at 1668728562402}
- {:block/name "robot mcrobotson",
-  :block/created-at 1668992967141,
-  :block/updated-at 1668992967141}
  {:block/name "rosano",
   :block/created-at 1646357158471,
   :block/updated-at 1668670207296}
  {:block/name "ryan atkinson",
-  :block/created-at 1668711695329,
-  :block/updated-at 1668711695329}
+  :block/created-at 1668908457345,
+  :block/updated-at 1668908457345}
  {:block/name "scaling synthesis - extending tools for thought",
-  :block/created-at 1668728774017,
-  :block/updated-at 1668728935355}
+  :block/created-at 1668908457957,
+  :block/updated-at 1668908457957}
  {:block/name "scaling synthesis - multiplayer tft",
-  :block/created-at 1668728479391,
-  :block/updated-at 1668728835526}
+  :block/created-at 1668908458300,
+  :block/updated-at 1668908458300}
  {:block/name "scalingsynthesis",
-  :block/created-at 1668728831905,
-  :block/updated-at 1668728831905}
+  :block/created-at 1668908457947,
+  :block/updated-at 1668908457947}
  {:block/name "sep 29th, 2022",
-  :block/created-at 1668728668635,
-  :block/updated-at 1668728668635}
+  :block/created-at 1668908457745,
+  :block/updated-at 1668908457745}
  {:block/name "sindre sorhus",
   :block/created-at 1646357158470,
   :block/updated-at 1646357158470}
@@ -555,41 +539,32 @@
   :block/created-at 1668388044051,
   :block/updated-at 1668388266947}
  {:block/name "spatial canvases - part 1",
-  :block/created-at 1668728582435,
-  :block/updated-at 1668728668654}
+  :block/created-at 1668908457755,
+  :block/updated-at 1668908457755}
  {:block/name "spatial canvases - part 2",
-  :block/created-at 1668728674689,
-  :block/updated-at 1668728742000}
+  :block/created-at 1668908458194,
+  :block/updated-at 1668908458194}
  {:block/name "spatial canvases - part 3",
-  :block/created-at 1668728875671,
-  :block/updated-at 1668728909383}
+  :block/created-at 1668908458213,
+  :block/updated-at 1668908458213}
  {:block/name "speaker",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "speaker listing",
   :block/created-at 1646357158470,
   :block/updated-at 1656543978978}
- {:block/name "speakers",
-  :block/created-at 1668988497988,
-  :block/updated-at 1668988497988}
  {:block/name "sprout",
   :block/created-at 1668474726783,
   :block/updated-at 1668474726783}
  {:block/name "start here",
-  :block/created-at 1656545898881,
-  :block/updated-at 1656546125583}
+  :block/created-at 1668908457787,
+  :block/updated-at 1668908457787}
  {:block/name "tara calishain",
   :block/created-at 1668387306860,
   :block/updated-at 1668387306860}
  {:block/name "taylor hadden",
   :block/created-at 1668727460765,
   :block/updated-at 1668727460765}
- {:block/name "templates",
-  :block/created-at 1668988496811,
-  :block/updated-at 1668993090701}
- {:block/name "tftrocks notes",
-  :block/created-at 1668988496874,
-  :block/updated-at 1668988496874}
  {:block/name "the jump to hyperspace",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -600,8 +575,11 @@
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "tony confrey",
-  :block/created-at 1668728364946,
-  :block/updated-at 1668728364946}
+  :block/created-at 1668908458224,
+  :block/updated-at 1668908458224}
+ {:block/name "tool",
+  :block/created-at 1668474725978,
+  :block/updated-at 1668474725978}
  {:block/name "tool for thought",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -620,6 +598,9 @@
  {:block/name "tools for thought rocks open collective",
   :block/created-at 1668391470219,
   :block/updated-at 1668391496857}
+ {:block/name "toolsforthoughtrocks",
+  :block/created-at 1668474726916,
+  :block/updated-at 1668474726916}
  {:block/name "twitter",
   :block/created-at 1660672021350,
   :block/updated-at 1660672021350}
@@ -629,6 +610,12 @@
  {:block/name "vancouver",
   :block/created-at 1668391335730,
   :block/updated-at 1668391335730}
+ {:block/name "video",
+  :block/created-at 1660672020917,
+  :block/updated-at 1660672020917}
+ {:block/name "vimeo",
+  :block/created-at 1668463378644,
+  :block/updated-at 1668463378644}
  {:block/name "vint cerf",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -647,6 +634,9 @@
  {:block/name "walkah",
   :block/created-at 1668391236897,
   :block/updated-at 1668391236897}
+ {:block/name "welcome to mastodon",
+  :block/created-at 1668387247603,
+  :block/updated-at 1668387247603}
  {:block/name "wetware of writing and doing",
   :block/created-at 1668474726605,
   :block/updated-at 1668474726605}
@@ -654,8 +644,5 @@
   :block/created-at 1668474726789,
   :block/updated-at 1668474726789}
  {:block/name "zerodataapp",
-  :block/created-at 1646357158471,
-  :block/updated-at 1646357158471}
- {:block/name "zoom",
-  :block/created-at 1668988498343, 
-  :block/updated-at 1668988498343}]
+  :block/created-at 1646357158471, 
+  :block/updated-at 1646357158471}]
