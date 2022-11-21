@@ -3,3 +3,7 @@
 - [[How to Make the Fediverse Your Own]] by [[Social Coop]]
 - [[GSheet Mastodon Open Servers English 5K+ Active Users]] via [Mastodon Migration](https://mastodon.online/@mastodonmigration/109327141271723354)
 - [[A Big List of Mastodon Resources]] by [[ResearchBuzz]]
+- [[Yoyogi]]
+- TODO Follow the pattern and replace this with a query that lists resources
+-
+-

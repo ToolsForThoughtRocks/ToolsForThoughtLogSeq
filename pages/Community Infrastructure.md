@@ -5,10 +5,19 @@
 - [[Luma]] https://lu.ma/toolsforthoughtrocks is the link for the community page on Luma
 	- There is also a shared org account https://lu.ma/toolsforthought
 - [[github]] https://github.com/ToolsForThoughtRocks
+	- A number of people are [owners / members of the org](https://github.com/orgs/ToolsForThoughtRocks/people) (not all are publicly listed)
+		- [[Boris Mann]], Owner
+		- [[Jess Martin]], Owner
+		- [[Michael Gartner]], Owner
 - Youtube https://youtube.com/@toolsforthought
+  id:: 637985aa-49bb-4521-ac29-7d37137d6d78
+	- [[Boris Mann]], Owner
+	- [[Jess Martin]], Owner
+	- [[Christina Bowen]], Owner
+	- [[Michael Gartner]], Manager
 - [[Open Collective]] https://opencollective.com/toolsforthought
 - [[Tools For Thought Mastodon]] https://toolsforthought.rocks
-- The domain is registered at and has DNS hosted by [[Google Domains]]
+- The domain `toolsforthought.rocks` is registered at and has DNS hosted by [[Google Domains]]
   id:: 63792362-9130-4138-ac94-31e5c6ff7708
 	- [[Boris Mann]] and [[Jess Martin]] have full permissions over it
 - The [[Colophon]] describes the infrastructure for this [[TFTRocks Notes]] site

@@ -150,4 +150,4 @@
  :publishing/all-pages-public? true
  :feature/enable-timetracking? true
  :feature/enable-flashcards? false
- :favorites ["Monthly Meetings" "START HERE" "Mastodon Resources"]}
+ :favorites ["Monthly Meetings" "Mastodon Resources"]}
