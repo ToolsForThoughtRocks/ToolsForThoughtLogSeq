@@ -1,6 +1,9 @@
 [{:block/name "62bcd24d-7ae0-42f9-bc4e-650d0b35559f",
   :block/created-at 1656545609213,
   :block/updated-at 1656545609213}
+ {:block/name "63792362-9130-4138-ac94-31e5c6ff7708",
+  :block/created-at 1668988498279,
+  :block/updated-at 1668988498279}
  {:block/name "a",
   :block/created-at 1646357158470,
   :block/updated-at 1646357158470}
@@ -13,6 +16,9 @@
  {:block/name "activitypub",
   :block/created-at 1668387835838,
   :block/updated-at 1668387835838}
+ {:block/name "add your person page",
+  :block/created-at 1668988497991,
+  :block/updated-at 1668988497991}
  {:block/name "alexander obernauer",
   :block/created-at 1668727668318,
   :block/updated-at 1668727668318}
@@ -112,6 +118,9 @@
  {:block/name "colophon",
   :block/created-at 1668669381914,
   :block/updated-at 1668669778173}
+ {:block/name "community infrastructure",
+  :block/created-at 1668988496873,
+  :block/updated-at 1668988496873}
  {:block/name "contents",
   :block/created-at 1668474726930,
   :block/updated-at 1668669825904}
@@ -217,6 +226,12 @@
  {:block/name "geoffrey litt",
   :block/created-at 1646357158471,
   :block/updated-at 1668670276454}
+ {:block/name "github",
+  :block/created-at 1668988498331,
+  :block/updated-at 1668988498331}
+ {:block/name "google domains",
+  :block/created-at 1668988498335,
+  :block/updated-at 1668988498335}
  {:block/name "gordon brander",
   :block/created-at 1668727771971,
   :block/updated-at 1668727771971}
@@ -229,12 +244,22 @@
  {:block/name "hometown",
   :block/created-at 1668388148807,
   :block/updated-at 1668388148807}
+ {:block/name
+  "how long can the tftrocks mastodon server be relied upon?",
+  :block/created-at 1668988496867,
+  :block/updated-at 1668988496867}
+ {:block/name "how to add content to the tftrocks notes site",
+  :block/created-at 1668988497929,
+  :block/updated-at 1668988497929}
  {:block/name "how to make the fediverse your own",
   :block/created-at 1668474726326,
   :block/updated-at 1668474726326}
  {:block/name "howard rheingold",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "howto",
+  :block/created-at 1668988498886,
+  :block/updated-at 1668988498886}
  {:block/name "hugo",
   :block/created-at 1668389310486,
   :block/updated-at 1668389310486}
@@ -292,9 +317,6 @@
  {:block/name "jun 15th, 2021",
   :block/created-at 1623715200000,
   :block/updated-at 1623715200000}
- {:block/name "jun 29th, 2022",
-  :block/created-at 1656541775347,
-  :block/updated-at 1656541775347}
  {:block/name "justin johnson",
   :block/created-at 1668391227179,
   :block/updated-at 1668391227179}
@@ -379,6 +401,12 @@
  {:block/name "nov 17th, 2022",
   :block/created-at 1668711695049,
   :block/updated-at 1668711695049}
+ {:block/name "nov 19th, 2022",
+  :block/created-at 1668988496880,
+  :block/updated-at 1668988496880}
+ {:block/name "nov 20th, 2022",
+  :block/created-at 1668988496814,
+  :block/updated-at 1668988496814}
  {:block/name "nov 30th, 2021",
   :block/created-at 1638230400000,
   :block/updated-at 1638230400000}
@@ -430,12 +458,18 @@
  {:block/name "peertube",
   :block/created-at 1668388145307,
   :block/updated-at 1668388145307}
+ {:block/name "people",
+  :block/created-at 1668988497712,
+  :block/updated-at 1668988497712}
  {:block/name "person",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
  {:block/name "pesos",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "peter kaminski",
+  :block/created-at 1668988496869,
+  :block/updated-at 1668988496869}
  {:block/name "pirijan",
   :block/created-at 1668728668636,
   :block/updated-at 1668728668636}
@@ -451,6 +485,9 @@
  {:block/name "posse",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "pr",
+  :block/created-at 1668988496877,
+  :block/updated-at 1668988496877}
  {:block/name "python",
   :block/created-at 1668387634873,
   :block/updated-at 1668387634873}
@@ -460,15 +497,36 @@
  {:block/name "readme",
   :block/created-at 1646357158472,
   :block/updated-at 1646357158472}
+ {:block/name "required event ",
+  :block/created-at 1668988500593,
+  :block/updated-at 1668988500593}
+ {:block/name "required event / monthly meeting properties",
+  :block/created-at 1668988500591,
+  :block/updated-at 1668988500591}
+ {:block/name "required speaker ",
+  :block/created-at 1668988500590,
+  :block/updated-at 1668988500590}
+ {:block/name "required speaker / person properties",
+  :block/created-at 1668988500588,
+  :block/updated-at 1668988500588}
  {:block/name "researchbuzz",
   :block/created-at 1668387176565,
   :block/updated-at 1668387176565}
  {:block/name "roam research",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
+ {:block/name "rob mcroberson",
+  :block/created-at 1668993645420,
+  :block/updated-at 1668993645420}
+ {:block/name "robbl",
+  :block/created-at 1668992696050,
+  :block/updated-at 1668992696050}
  {:block/name "robert haisfield",
   :block/created-at 1668728562402,
   :block/updated-at 1668728562402}
+ {:block/name "robot mcrobotson",
+  :block/created-at 1668992967141,
+  :block/updated-at 1668992967141}
  {:block/name "rosano",
   :block/created-at 1646357158471,
   :block/updated-at 1668670207296}
@@ -511,6 +569,9 @@
  {:block/name "speaker listing",
   :block/created-at 1646357158470,
   :block/updated-at 1656543978978}
+ {:block/name "speakers",
+  :block/created-at 1668988497988,
+  :block/updated-at 1668988497988}
  {:block/name "sprout",
   :block/created-at 1668474726783,
   :block/updated-at 1668474726783}
@@ -523,6 +584,12 @@
  {:block/name "taylor hadden",
   :block/created-at 1668727460765,
   :block/updated-at 1668727460765}
+ {:block/name "templates",
+  :block/created-at 1668988496811,
+  :block/updated-at 1668993090701}
+ {:block/name "tftrocks notes",
+  :block/created-at 1668988496874,
+  :block/updated-at 1668988496874}
  {:block/name "the jump to hyperspace",
   :block/created-at 1646357158471,
   :block/updated-at 1646357158471}
@@ -556,6 +623,9 @@
  {:block/name "twitter",
   :block/created-at 1660672021350,
   :block/updated-at 1660672021350}
+ {:block/name "utilities",
+  :block/created-at 1668988496810,
+  :block/updated-at 1668988496810}
  {:block/name "vancouver",
   :block/created-at 1668391335730,
   :block/updated-at 1668391335730}
@@ -584,5 +654,8 @@
   :block/created-at 1668474726789,
   :block/updated-at 1668474726789}
  {:block/name "zerodataapp",
-  :block/created-at 1646357158471, 
-  :block/updated-at 1646357158471}]
+  :block/created-at 1646357158471,
+  :block/updated-at 1646357158471}
+ {:block/name "zoom",
+  :block/created-at 1668988498343, 
+  :block/updated-at 1668988498343}]

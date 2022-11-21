@@ -1,7 +1,8 @@
 - The [[People]] page will list pages tagged with #person
 - Make a page with your name
 	- Can be your full name or a handle that you commonly use
-	- You can add an alias to the page, like [[Boris]] or _MyCoolInternetHandle_
+	- Use `/Template` to add `👩🏽‍🤝‍👩🏻 Personal Page` Template to fill out some `properties` as the first block of the page
+		- {{youtube https://youtu.be/IYeklkrHaAo}}
 - Write about yourself and link to various resources you want to share
 - This is your page! We've added a couple for #speakers and people might create pages as part of writing other notes
 	- Keep scratch notes there, #TODO or anything else
