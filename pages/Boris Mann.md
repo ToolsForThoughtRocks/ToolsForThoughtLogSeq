@@ -1,7 +1,8 @@
+type:: person
 tags:: #person, #organizer
 alias:: Boris
 link:: https://bmannconsulting.com
-activitypub:: https://toolsforthought.rocks/@boris
+activitypub:: <a href="https://toolsforthought.rocks/@boris">@boris@toolsforthought.rocks</a>
 
 - I have a [Colophon for my digital garden](https://bmcgarden.fission.app/colophon/) and a longer [blog one with a 20+ year history](https://bmcgarden.fission.app/blog-colophon/)
 - Fun facts:

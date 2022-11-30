@@ -1,0 +1,2 @@
+- Please add issues for [[TFTRocks Notes]] https://github.com/ToolsForThoughtRocks/ToolsForThoughtLogSeq/issues
+- For now, we'll use that Github repo for community, event, notes, Mastodon server, and everything else we need to track
