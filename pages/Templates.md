@@ -53,3 +53,12 @@
 	- activitypub
 		- *Replace this with a link to your main activitypub profile, eg [[mastodon]]:* `https://toolsforthought.rocks/@TFTRocks`
 		  id:: 4c8fc118-eb67-43ed-bd4f-c33184c96d35
+- Monthly Meeting Template
+  template:: Monthly Meeting Template
+  template-including-parent:: false
+  collapsed:: true
+	- date:: 
+	  speakers:: 
+	  video:: 
+	  link:: 
+	  tags:: event, monthly-meeting

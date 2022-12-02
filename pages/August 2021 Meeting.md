@@ -1,5 +1,6 @@
 date:: [[Aug 25th, 2021]]
 speakers:: [[Geoffrey Litt]], [[Jared Pereira]]
+video:: https://youtu.be/1ZPf13jNKCo
 link:: https://lu.ma/tfti-august
 tags:: event, monthly-meeting
 

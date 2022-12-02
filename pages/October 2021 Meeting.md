@@ -1,4 +1,7 @@
-date:: [[Oct 29th, 2021]] 
+date:: [[Oct 29th, 2021]]
+speakers:: [[Rosano]]
+video:: https://youtu.be/McKXW-bP2HQ
+link:: https://lu.ma/tftrocks-oct
 tags:: event, monthly-meeting
 
 - [[October 2021 Chat Log]]
