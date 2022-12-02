@@ -1,2 +1,2 @@
 - {{query (page-tags speaker)}}
-  query-properties:: [:page :twitter]
+  query-properties:: [:page :twitter :link]

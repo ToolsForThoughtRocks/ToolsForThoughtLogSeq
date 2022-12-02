@@ -1,7 +1,8 @@
 type:: person
 link:: https://www.knowledgeecologist.me
+twitter:: https://twitter.com/csageland
+activitypub:: https://social.coop/@christina
 tags:: #person, #organizer, #speaker
-activitypub:: https://social.coop/christina
 
 -
 - hi boris!
