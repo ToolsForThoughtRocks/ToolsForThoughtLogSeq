@@ -1,4 +1,4 @@
 github:: https://github.com/mdroidian
-
-- tags:: #person, #Vancouver
--
+twitter:: https://twitter.com/MichaelGartner
+activitypub:: <a href="https://toolsforthought.rocks/@michaelgartner">@michaelgartner@toolsforthought.rocks</a>
+tags:: person

@@ -2,6 +2,7 @@
   id:: 637ab057-0012-437c-bdab-e10e09676dbe
   template:: 👩🏽‍🤝‍👩🏻 Personal Page
   template-including-parent:: false
+  collapsed:: true
 	- alias::
 	  bio:: [INSTRUCTIONS](((637abe54-4a1d-4fb4-abb1-fa1159af77f0)))
 	  pronouns:: [INSTRUCTIONS](((e0620e6b-15eb-4dd7-8b94-c634b5996297)))
@@ -10,6 +11,7 @@
 	  twitter:: [INSTRUCTIONS](((ca7c2673-9a13-4b0a-9ba5-c390995c606f)))
 	  activitypub:: [INSTRUCTIONS](((4c8fc118-eb67-43ed-bd4f-c33184c96d35)))
 	  avatar:: [INSTRUCTIONS](((6e6b59b8-0bf5-4553-9066-e59a8f4b74a9)))
+	  tags:: person
 	- **Additional Instructions**
 		- Hover over the `INSTRUCTIONS` to view individual instructions for each property
 		- Make sure that the properties are all in one block and that it is the first block on the page

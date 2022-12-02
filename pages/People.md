@@ -1,3 +1,3 @@
 - {{query (page-property :type "person")}}
-- TODO Make a query that lists #person tagged pages and displays it here
--
+- {{query (page-tags person)}}
+  query-properties:: [:page :twitter :link :activitypub]
