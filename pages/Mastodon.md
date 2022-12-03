@@ -1,6 +1,4 @@
-link:: https://toolsforthought.rocks
-
-- [Chartodon](https://mathstodon.xyz/@Chartodon) is a cool experimental tool for mapping conversation threads
-	- by [[Colin the Mathmo]]
--
--
+link:: https://joinmastodon.org/
+github:: https://github.com/mastodon/mastodon
+tags:: #app, #opensource, #rails, #activitypub, #microblogging
+- Largest adopted codebase for #activitypub compatible microblogging
