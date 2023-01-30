@@ -4,7 +4,7 @@
 	- BibTeX citekeys:
 		- Modest references here end with a section  ‘BibTeX: xxxxxx’. This describes the ‘citekey’—a form of local unique ID—for an individual entry in the accompanying ‘.bib’ BibTeX data file (plain text). Thus, ‘BibTeX: bernstein:2022:otooh’ under Slide six below gives a citekey ‘bernstein:2022:otooh’. Apologies fro the laboured explanation but for a general audience many readers may not know of BibTeX and LaTeX.
 	- N.B. the BibTeX file has significantly more data—abstracts, source URLs, notes, etc.—than this RTF document. Treat this RTF as an index/dross-reference document.
-	- BibTeX file: [TfTR-References-BibTeX.bib](../assets/TfTR-References-BibTeX_1675103690419_0.bib) [TfTR-References-BibTeX.bib](https://notes.toolsforthought.rocks//assets/TfTR-References-BibTeX_1675103690419_0.bib)
+	- BibTeX file: [TfTR-References-BibTeX.bib](../assets/TfTR-References-BibTeX_1675103690419_0.bib) https://notes.toolsforthought.rocks//assets/TfTR-References-BibTeX_1675103690419_0.bib
 - **REFERENCES - BY ORIGINAL SLIDE**
 - Slide 2
 - ACM Hypertext Conference Proceedings in ACM Digital Library: https://dl.acm.org/conference/ht/proceedings

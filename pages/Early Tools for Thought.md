@@ -6,7 +6,7 @@ tags:: event, monthly-meeting
 slides:: https://www.markbernstein.org/Jan23/ToolsForThoughRocks.html
 
 - {{video https://www.youtube.com/watch?v=smTUHRDYm5E}}
-- Slides ![Mark Bernstein Early Tools For Thought Jan 2023.pdf](../assets/Mark_Bernstein_Early_Tools_For_Thought_Jan_2023_1675102979342_0.pdf) ![PDF](https://notes.toolsforthought.rocks/assets/Mark_Bernstein_Early_Tools_For_Thought_Jan_2023_1675102979342_0.pdf)
+- Slides ![Mark Bernstein Early Tools For Thought Jan 2023.pdf](../assets/Mark_Bernstein_Early_Tools_For_Thought_Jan_2023_1675102979342_0.pdf) https://notes.toolsforthought.rocks/assets/Mark_Bernstein_Early_Tools_For_Thought_Jan_2023_1675102979342_0.pdf
 - [Q&A from the Webinar](((63d2b096-a705-486a-82fe-fb7805f1d68e)))
 - [[Early Tools for Thought/Chat Log]]
 - References by [[Mark Anderson]]
