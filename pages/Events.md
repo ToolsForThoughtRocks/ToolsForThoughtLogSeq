@@ -1,2 +1,2 @@
-- Registration for events is via the [[Luma]] community at https://lu.ma/toolsforthoughtrocks
+- Registration for events is via the [[Luma]] community at https://calendar.toolsforthought.rocks
 -
