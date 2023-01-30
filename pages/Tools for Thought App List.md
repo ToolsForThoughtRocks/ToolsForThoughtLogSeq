@@ -4,6 +4,3 @@
 	- [[Subconscious]]
 	- [[LogSeq]]
 	- [[Mastodon]]
-	-
-- DONE Bug [[Jess Martin]] for the list in his notes to dump in here as a starting point
-	- Consider Jess bugged using this tracking issue https://github.com/ToolsForThoughtRocks/ToolsForThoughtLogSeq/issues/7
