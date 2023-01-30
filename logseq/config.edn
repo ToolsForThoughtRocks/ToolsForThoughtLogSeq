@@ -151,4 +151,4 @@
  :publishing/all-pages-public? true
  :feature/enable-timetracking? true
  :feature/enable-flashcards? false
- :favorites ["Tools for Thought App List" "Monthly Meetings" "Mastodon Resources"]}
+ :favorites ["Early Tools for Thought" "Tools for Thought App List" "Monthly Meetings" "Mastodon Resources"]}
