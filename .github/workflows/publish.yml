@@ -5,7 +5,7 @@ on:
     branches:
       - quartz
 
-workflow_dispatch:
+  workflow_dispatch:
  
 permissions:
   contents: read
