@@ -11,8 +11,6 @@ Tools for Thought Rocks! is a community interested in second brains, digital gar
 Subscribe to the [[Calendar]]
 ## Explore
 
-The [[Journals]] folder has daily notes with updates.
-
 Add content to the site
 * [[How to add content to the TFTRocks Notes site]]
 * Explore [people pages](/tags/person) on this site
