@@ -1,13 +1,11 @@
-- The [[People]] page will list pages tagged with #person
-- Make a page with your name
-	- Can be your full name or a handle that you commonly use
-	- Use `/Template` to add `👩🏽‍🤝‍👩🏻 Personal Page` Template to fill out some `properties` as the first block of the page
-		- {{youtube https://youtu.be/k9avMJU7i44}}
+Make a page with your name, and tag it with `#person`
+* Can be your full name or a handle that you commonly use
 - Write about yourself and link to various resources you want to share
 - This is your page! We've added a couple for #speakers and people might create pages as part of writing other notes
-	- Keep scratch notes there, #TODO or anything else
-- Maybe:
-	- Some favourite posts, media, or other things you've created
-	- Articles, people, art, culture, or anything else that was important or impactful on you
-	- Hobbies
-	- Fun facts
+
+Maybe:
+* Some favourite posts, media, or other things you've created
+* Articles, people, art, culture, or anything else that was important or impactful on you
+* Hobbies
+* Fun facts
+* Common quotes attributed to you
