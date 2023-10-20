@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - quartz
+
+workflow_dispatch:
  
 permissions:
   contents: read
