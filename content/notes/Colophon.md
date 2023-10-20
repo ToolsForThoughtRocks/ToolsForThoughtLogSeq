@@ -1,4 +1,4 @@
-This site is managed with [[Obsidian]]
+This site is managed with [[Obsidian]] and [[Quartz]]
 
 The source lives in the Github organization at https://github.com/ToolsForThoughtRocks/ToolsForThoughtLogSeq
 

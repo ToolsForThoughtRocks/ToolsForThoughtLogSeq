@@ -41,10 +41,8 @@ More at [[Tools For Thought Mastodon]]
 
 The domain `toolsforthought.rocks` is registered at and has DNS hosted by [[Google Domains]]
 
-* *[[Boris Mann]] and [[Jess Martin]] have full permissions over it
+* [[Boris Mann]] and [[Jess Martin]] have full permissions over it
 
 ## Website
 
-https://notes.toolsforthought.rocks, until we shut down the old Mastodon server.
-
-The [[Colophon]] describes the infrastructure for this [[TFTRocks Notes]] site
+The [[Colophon]] describes the infrastructure for this site

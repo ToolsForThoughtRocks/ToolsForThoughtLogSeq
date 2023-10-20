@@ -2,7 +2,7 @@
 title: Welcome to Tools for Thought Rocks!
 ---
 
-Tools for Thought Rocks! is a community interested in second brains, digital gardens, spatial canvases, and the design and programming of various tools for thought systems. Read more on the [About page »]([[About]])
+Tools for Thought Rocks! is a community interested in second brains, digital gardens, spatial canvases, and the design and programming of various tools for thought systems. Read more on the [About page »](notes/About)
 
 ## Events
 

@@ -4,4 +4,4 @@ https://quartz.jzhao.xyz/
 
 Built by [[Jacky Zhao]]
 
-#quartz 
+#quartz #obsidian
