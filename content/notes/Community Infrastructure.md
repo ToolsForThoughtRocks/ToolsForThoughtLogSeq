@@ -1,12 +1,11 @@
 This is all of the infrastructure, from people, to tools, to access, that helps run the [[Tools for Thought Rocks]] community
 
-Current organizers are  [[Christina Bowen]], [[Boris Mann]], and [[Jess Martin]]
-
 Anyone can propose / organize events! What else can we do together?
 
+Current [[Organizers]]
 ## Calendar
 
-https://lu.ma/toolsforthought is the link for the community calendar powered by [[Luma]] 
+https://lu.ma/toolsforthought is the link for the community calendar powered by [[Luma]].
 
 It is embedded on this site on the [[Calendar]] page
 
@@ -23,7 +22,7 @@ A number of people are [owners / members of the org](https://github.com/orgs/Too
 
 https://youtube.com/@toolsforthought
 
-* *[[Boris Mann]], Owner
+* [[Boris Mann]], Owner
 * [[Jess Martin]], Owner
 * [[Christina Bowen]], Owner
 * [[Michael Gartner]], Manager
