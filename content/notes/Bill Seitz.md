@@ -1,3 +1,7 @@
-link:: http://webseitz.fluxent.com/wiki/
-twitter:: https://twitter.com/BillSeitz
-tags:: person, speaker
+http://webseitz.fluxent.com/wiki/
+
+Social
+* Twitter https://twitter.com/BillSeitz
+* Mastodon https://toolsforthought.social/@billseitz
+
+

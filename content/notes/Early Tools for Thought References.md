@@ -1,21 +1,29 @@
-- Any errors in reference data in this document or the BiTex file are mine ([[Mark Anderson]]) and not the original presenter’s.
-- **HOW TO USE**
-	- Slide numbering below is as in the PDF (see above).
-	- BibTeX citekeys:
-		- Modest references here end with a section  ‘BibTeX: xxxxxx’. This describes the ‘citekey’—a form of local unique ID—for an individual entry in the accompanying ‘.bib’ BibTeX data file (plain text). Thus, ‘BibTeX: bernstein:2022:otooh’ under Slide six below gives a citekey ‘bernstein:2022:otooh’. Apologies fro the laboured explanation but for a general audience many readers may not know of BibTeX and LaTeX.
-	- N.B. the BibTeX file has significantly more data—abstracts, source URLs, notes, etc.—than this RTF document. Treat this RTF as an index/dross-reference document.
-	- BibTeX file: [TfTR-References-BibTeX.bib](../assets/TfTR-References-BibTeX_1675103690419_0.bib) https://notes.toolsforthought.rocks//assets/TfTR-References-BibTeX_1675103690419_0.bib
-- **REFERENCES - BY ORIGINAL SLIDE**
-- Slide 2
+For [[2023-01-26 Early Tools for Thought]]
+
+Any errors in reference data in this document or the BibTex file are mine ([[Mark Anderson]]) and not the original presenter’s.
+
+## How to Use
+
+Slide numbering below is as in the [PDF](../assets/Mark_Bernstein_Early_Tools_For_Thought_Jan_2023_1675102979342_0.pdf)
+
+BibTeX citekeys:
+* Modest references here end with a section  ‘BibTeX: xxxxxx’. This describes the ‘citekey’—a form of local unique ID—for an individual entry in the accompanying ‘.bib’ BibTeX data file (plain text). Thus, ‘BibTeX: bernstein:2022:otooh’ under Slide six below gives a citekey ‘bernstein:2022:otooh’. Apologies fro the laboured explanation but for a general audience many readers may not know of BibTeX and LaTeX.
+* N.B. the BibTeX file has significantly more data—abstracts, source URLs, notes, etc.—than this RTF document. Treat this RTF as an index/dross-reference document.
+* BibTeX file: [TfTR-References-BibTeX.bib](../assets/TfTR-References-BibTeX_1675103690419_0.bib)
+## References - by Original Slide
+
+Slide 2
 - ACM Hypertext Conference Proceedings in ACM Digital Library: https://dl.acm.org/conference/ht/proceedings
   [From April 2022, ACM removed paywall to access PDFs of papers from ACM’s first 50 years, i.e. everything before 1 Jan 2001.]
 - [Also see additional references at end]
-- Slide 6
+
+Slide 6
 - M. Bernstein, “On The Origins Of Hypertext In The Disasters Of The Short 20th Century,” WWW ‘22, Proceedings of the ACM Web Conference 2022, 2022, Association for Computing Machinery, pp. 3450-3457.
   BibTeX: bernstein:2022:otooh
 - Not published until 2023: 
   Bernstein, Mark (2023), ‘Knowledge Machines: a Complex Web of History and Technology’, in Wiebke Keim, Leandro Rodriguez Medina, Rigas Arvanitis (ed.), Handbook of Academic Knowledge Circulation (Routledge),
-- Slide 8
+
+Slide 8
 - Otlet:
   P. Otlet, Traité de Documentation: Le Livre sur le Livre, 2015.  (in French)
   BibTeX: otlet:1934:lsl
@@ -23,17 +31,20 @@
 - H. G. Wells’ ‘World Brain’:
   H. G. Wells, World Brain, H. G. Wells Library, 1937. 
   BibTeX: wells:1937:wb
-- Slide 9
+
+Slide 9
 - Emanuel Goldberg:
   M. K. Buckland, Emanuel Goldberg and His Knowledge Machine, Greenwood Publishing Group, 2006. 
   BibTeX: buckland:2006:eg
 - Vannevar Bush:
   V. Bush, “As We May Think,” The Atlantic Monthly, 176, 1945, pp. 101-108. 
   BibTeX: bush:1945:awmt
-- Slide 11
+
+Slide 11
 - S. Brand, Whole Earth Software Catalog, Doubleday Books, Garden City, NY, 1969. 
   BibTeX: brand:1969:whsd
-- Slide 12
+
+Slide 12
 - Computer Lib:
 - T. H. Nelson, Computer Lib/Dream Machines, 1978 Reprint of 1974 Edition, Self-published, 1974. 
   BibTeX: nelson:1974:cldn
@@ -49,10 +60,12 @@
 - Barnet’s book;
   B. Barnet, Memory Machines: The Evolution of Hypertext, Anthem Press, London, UK, 2013. 
   BibTeX: barnet:2013:memmach
-- Slide 15
+
+Slide 15
 - I. E. Sutherland, “Sketchpad a Man-Machine Graphical Communication System,” SIMULATION, 2, 1964, pp. R-3-20. 
   BibTeX: sutherland:2964:sketchpad
-- Slide 17
+
+Slide 17
 - M. Bernstein, “Tinderbox,” 2002, Eastgate Systems, 
   BibTeX: bernstein:2002:tbx
 - M. Bernstein, “Collage, Composites, Construction,” HYPERTEXT ‘03, Proceedings of the Fourteenth ACM Conference on Hypertext and Hypermedia, 2003, ACM, pp. 122-123. 
@@ -60,56 +73,69 @@
 - M. Bernstein, The Tinderbox Way, Eastgate Systems Inc., Watertown, MA, USA, 2009. 
   BibTeX: bernstein:2009:ttw
 - [Also see additional references at end]
-- Slide 18
+
+Slide 18
 - Engelbart & NLS Augment:
 - D. C. Engelbart, “Augmenting Human Intellect: A Conceptual Framework,” 1, 1962, Stanford Research Institute (SRI), pp. 2007. 
   BibTeX: engelbart:1962:augmenting
 - D. C. Engelbart, “The Augmented Knowledge Workshop,” in A History of Personal Workstations, ACM, New York, NY, USA, 1988, pp.185-248. 
   BibTeX: engelbart:1988:akw
 - [Also see additional references at end]
-- Slide 21
+
+Slide 21
 - R. M. Stallman, “EMACS the Extensible, Customizable Self-Documenting Display Editor,” SIGOA, Proceedings of the ACM SIGPLAN SIGOA Symposium on Text Manipulation, 1981, Association for Computing Machinery, pp. 147-156. 
   BibTeX: stallman:1981:emacs
-- Slide 23
+
+Slide 23
 - J. D. Bolter, and M. Joyce, “Hypertext and Creative Writing,” HYPERTEXT ‘87, Proceedings of the ACM Conference on Hypertext, 1987, ACM, pp. 41-50. 
   BibTeX: bolter:1987:hacw
 - M. Joyce, “Storyspace As a Hypertext System for Writers and Readers of Varying Ability,” HYPERTEXT ‘91, Proceedings of the Third Annual ACM Conference on Hypertext, 1991, ACM, pp. 381-387. 
   BibTeX: joyce:1991:shs
 - M. Bernstein, “Storyspace 3,” HT ‘16, Proceedings of the 27th ACM Conference on Hypertext and Social Media, 2016, ACM, pp. 201-206. 
   BibTeX: bernstein:2016:sto
-- Slide 24
+
+Slide 24
 - M. Bernstein, “Those Trojan Girls: a hypertext,” 2016, Eastgate Systems, Inc., 
   BibTeX: bernstein:2016:those
-- Slide 25
+
+Slide 25
 - M. K. Arnold, “Lust,” in 1(2), M. Bernstein, ed., Eastgate Systems, Inc., Watertown, MA, 1994.
   BibTeX: arnold:1994:lust
 - A. Ensslin, Pre-web Digital Publishing and the Lore of Electronic Literature, Cambridge University Press, 2022. 
   BibTeX: ensslin:2022:preweb
-- Slide 26
+
+Slide 26
 - P. D. Stotts, and R. Furuta, “Petri-net-based Hypertext: Document Structure with Browsing Semantics,” ACM Transactions on Information Systems (TOIS), 7, 1989, ACM, pp. 3-29. 
   BibTeX: stotts:1989:phd
-- Slide 28
-- [H. Van Dyke Parunak, “Don’t Link Me in: Set Based Hypermedia for Taxonomic Reasoning,” HYPERTEXT ‘91, Proceedings of the Third Annual ACM Conference on Hypertext, 1991, ACM, pp. 233-242. 
+
+Slide 28
+- H. Van Dyke Parunak, “Don’t Link Me in: Set Based Hypermedia for Taxonomic Reasoning,” HYPERTEXT ‘91, Proceedings of the Third Annual ACM Conference on Hypertext, 1991, ACM, pp. 233-242. 
   BibTeX: vandykeparunak:1991:dlm
-- Slide 29
+
+Slide 29
 - Tinderbox: see slide 17
-- Slide 31
+
+Slide 31
 - KMS:
   R. M. Akscyn, D. L. McCracken, and E. Yoder, “KMS: A Distributed Hypermedia System for Managing Knowledge in Organizations,” HYPERTEXT ‘87, Proceedings of the ACM Conference on Hypertext, 1987, ACM, pp. 1-20. 
   BibTeX: akscyn:1987:kms
 - [Also see additional references at end]
-- Slide 32
+
+Slide 32
 - F. G. Halasz, “”Seven Issues”: Revisited,” HYPERTEXT ‘91, Proceedings of ACM Hypertext ’91 Conference, 1991, ACM, pp. 1-18. 
   BibTeX: halasz:1991:sir
-- Slide 33
+
+Slide 33
 - N. Yankelovich, N. K. Meyrowitz, and A. van Dam, “Reading and Writing the Electronic Book,” Computer, 18, 1985, IEEE Computer Society, pp. 15-30. 
   BibTeX: yankelovich:1985:rweb
 - N. Yankelovich et al., “Intermedia: The Concept and the Construction of a Seamless Information Environment,” Computer, 21, 1988, IEEE Computer Society, pp. 81-96. 
   BibTeX: yankelovich:1988:intermedia
-- Slide 34
+
+Slide 34
 - G. P. Landow, “The Victorian Web,” 1995, 
   BibTeX: landow:1995:vic
-- Slide 35
+
+Slide 35
 - G. P. Landow, “Relationally Encoded Links and the Rhetoric of Hypertext,” HYPERTEXT ‘87, Conference on Hypertext and Hypermedia: Proceedings of the ACM Conference on Hypertext 1987, 1987, pp. 331-343. 
   BibTeX: landow:1987:rel
 - M. Bernstein, M. Joyce, and D. Levine, “Contours of Constructive Hypertexts,” ECHT’92, Proceedings of the ACM Conference on Hypertext, 1992, ACM, pp. 161-170. 
@@ -118,47 +144,56 @@
   BibTeX: lanham:2010:tew
 - M. Bernstein, “Links: Exercises In Style,” WS.2 2018, Proceedings of the 2nd International Conference on Web Studies, 2018, ACM, pp. 5-11. 
   BibTeX: bernstein:2018:les
-- Slide 36
+
+Slide 36
 - P. J. Brown, “Turning Ideas into Products: The Guide System,” HYPERTEXT ‘87, Proceedings of the ACM Conference on Hypertext, 1987, ACM, pp. 33-40. 
   BibTeX: brown:1987:tip
 - P. J. Brown, “Do We Need Maps to Navigate Round Hypertext Documents,” Electronic Publishing, 2, 1988, pp. 91-100. 
   BibTeX: brown:1998:dwnm
 - P. J. Brown, “UNIX Guide: Lessons from Ten Years’ Development,” ECHT ’92, Proceedings of the ACM Conference on Hypertext, 1993, Association for Computing Machinery, pp. 63-70. 
   BibTeX: brown:1993:unix
-- Slide 37
+
+Slide 37
 - M. Bernstein, “On Hypertext Narrative,” HT ‘09, Proceedings of the 20th ACM Conference on Hypertext and Hypermedia, 2009, ACM, pp. 5-14. 
   BibTeX: bernstein:2003:ohn
-- Slide 38
+
+Slide 38
 - B. Shneiderman, “User Interface Design for the Hyperties Electronic Encyclopedia,” HYPERTEXT ‘87, Proceedings of the ACM Conference on Hypertext, 1987, ACM, pp. 189-194. 
   BibTeX: shneiderman:1987:uid
-- Slide 39
+
+Slide 39
 - R. H. Trigg, A Network-Based Approach to Text Handling for the Online Scientific Community, University of Maryland at College Park, College Park, MD, USA, 1983. 
   BibTeX: trigg:1983:nbath
-- Slide 40
+
+Slide 40
 - A. M. Fountain et al., “MICROCOSM: An Open Model for Hypermedia with Dynamic Linking.,” ECHT ‘90, Proceedings of the First European Conference on Hypertext, 1990, Cambridge University Press, pp. 298-311. 
   BibTeX: fountain:1990:momh
 - H. C. Davis, “Referential Integrity of Links in Open Hypermedia Systems,” HYPERTEXT ‘98, Proceedings of the Ninth ACM Conference on Hypertext and Hypermedia : Links, Objects, Time and Space---structure in Hypermedia Systems: Links, Objects, Time and Space---structure in Hypermedia Systems, 1998, ACM, pp. 207-216. 
   BibTeX: davis:1998:rioliohs
 - D. T. Michaelides et al., “Auld leaky: A contextual open hypermedia link server,” AH 2001, Hypermedia: Openness, Structural Awareness, and Adaptivity, 2002, Springer, pp. 59-70. 
   BibTeX: michaelides:2002:auld
-- Slide 41
+
+Slide 41
 - C. Hargood, M. J. Weal, and D. E. Millard, “The StoryPlaces Platform: Building a Web-Based Locative Hypertext System,” HT ‘18, Proceedings of the 29th on Hypertext and Social Media, 2018, ACM, pp. 128-135. 
   BibTeX: hargood:2018:spb
 - M. Bernstein, “Card Shark and Thespis: Exotic Tools for Hypertext Narrative,” HYPERTEXT ‘01, Proceedings of the 12th ACM conference on Hypertext and Hypermedia, 2001, ACM, pp. 41-50. 
   BibTeX: bernstein:2001:csat
 - Remnote: https://www.remnote.com
   Notion: https://www.notion.so
-- Slide 42
+
+Slide 42
 - N. A. Streitz et al., “DOLPHIN: Integrated Meeting Support across Local and Remote Desktop Environments and LiveBoards,” CSCW ’94, Proceedings of the 1994 ACM Conference on Computer Supported Cooperative Work, 1994, Association for Computing Machinery, pp. 345-358. 
   BibTeX: strietz:1994:dolphin
 - N. A. Streitz et al., “SEPIA: A Cooperative Hypermedia Authoring Environment,” HYPERTEXT ‘92, Proceedings of the ACM Conference on Hypertext, 1992, ACM, pp. 11-22. 
   BibTeX: streitz:1992:sepia
-- Slide 43
+
+Slide 43
 - C. C. Marshall et al., “Aquanet: A Hypertext Tool to Hold Your Knowledge in Place,” HYPERTEXT ‘91, Proceedings of the Third Annual ACM Conference on Hypertext, 1991, ACM, pp. 261-275. 
   BibTeX: marshall:1991:aqua
 - C. C. Marshall, and R. A. Rogers, “Two Years before the Mist: Experiences with Aquanet,” HYPERTEXT ‘92, Proceedings of the ACM Conference on Hypertext, 1992, ACM, pp. 53-62. 
   BibTeX: marshall:1992:mist
-- Slide 44
+
+Slide 44
 - Two versions (later one is version referenced in the slide, but note 6 year difference in dates):
   Shipman III, Frank M., and C. C. Marshall, “Formality Considered Harmful: Experiences, Emerging Themes, and Directions,” Xerox PARC, Technical Report ISTL-CSA-94-08-02, 1993, Xerox Palo Alto Research Center, 
   BibTeX: shipman:1993:fch
@@ -172,10 +207,12 @@
 - Slide 46
 - M. Bernstein, “Can We Talk About Spatial Hypertext?,” HT ‘11, Proceedings of the 22nd ACM Conference on Hypertext and Hypermedia, 2011, ACM, pp. 103-112. 
   BibTeX: bernstein:2011:tash
-- Slide 47
+
+Slide 47
 - Shipman III, Frank M. et al., “The Visual Knowledge Builder: A Second Generation Spatial Hypertext,” HYPERTEXT ‘01, Proceedings of the 12th ACM Conference on Hypertext and Hypermedia, 2001, ACM, pp. 113-122. 
   BibTeX: shipman:2001:vkb
-- Slide 48
+
+Slide 48
 - (Lotus) Agenda
   S. J. Kaplan et al., “Agenda: A Personal Information Manager,” Communications of the ACM (CACM), 33, 1990, ACM, pp. 105-116. 
   BibTeX: kaplan:1990:apim
@@ -204,7 +241,7 @@
   P. T. Zellweger, B.-W. Chang, and J. D. Mackinlay, “Fluid Links for Informed and Incremental Link Transitions,” HYPERTEXT ‘98, Proceedings of the Ninth ACM Conference on Hypertext and Hypermedia : Links, Objects, Time and Space—Structure in Hypermedia Systems, 1998, ACM, pp. 50-57. 
   BibTeX: zellweger:1998:fli
 - FRESS
-  [34] S. J. DeRose, and A. van Dam, “Document Structure and Markup in the FRESS Hypertext System,” Markup Language, 1, 1999, MIT Press, pp. 7-32. 
+  34 S. J. DeRose, and A. van Dam, “Document Structure and Markup in the FRESS Hypertext System,” Markup Language, 1, 1999, MIT Press, pp. 7-32. 
   BibTeX: derose:1999:dsm
 - Frontier
   M. Neuburg, Frontier: The Definitive Guide, Oreilly & Associates Incorporated, 1998. 
@@ -299,10 +336,10 @@
 - Re 2.5 degrees of freedom/VR
   S. E. Poltrock, and G. Engelbeck, “Requirements for a Virtual Collocation Environment,” GROUP ‘97, Proceedings of the 1997 ACM International Conference on Supporting Group Work, 1997, Association for Computing Machinery, pp. 61-70. 
   BibTeX: poltrock:1997:rfavce
-  [Not sure this is best reference but is a pointer to finding the work of Poltrock, whom the speaker mentioned]
-- =========================
-  Other possibly useful references:-
-  Hypertext Conference - (slide 2)
+  (Not sure this is best reference but is a pointer to finding the work of Poltrock, whom the speaker mentioned)
+
+## Other possibly useful references:
+* Hypertext Conference - (slide 2)
   Analysis of the Hypertext Conference:
   M. W. R. Anderson, and D. Millard, “Hypertext’s Meta-History: Documenting in-Conference Citations, Authors and Keyword Data, 1987-2021,” HT ‘22, Proceedings of the 33rd ACM Conference on Hypertext and Social Media, 2022, Association for Computing Machinery, pp. 96-106. 
   BibTeX: anderson:2022:hmh

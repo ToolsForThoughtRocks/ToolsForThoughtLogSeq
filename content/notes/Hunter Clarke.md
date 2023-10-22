@@ -1,3 +1,5 @@
-link:: https://www.hunterclarke.me/
-twitter:: https://twitter.com/hunterclarke
-tags:: person, speaker
+https://www.hunterclarke.me/
+
+twitter: https://twitter.com/hunterclarke
+
+#person #speaker

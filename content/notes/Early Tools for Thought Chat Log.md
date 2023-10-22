@@ -1,10 +1,10 @@
-tags:: #chatlog
+#chatlog  from [[2023-01-26 Early Tools for Thought]]
 
-- 00:25:24	David Eddy (Legacy Software, Ltd.):	Since I’ve just stumbled across this… MarkA… what’s the Swarthmore connection with hypertext?
-  00:25:27	Jess Martin:	wonderful to see *all* of you here - lots of familiar names
-  00:26:24	Peter Wasilko:	Web Squirrel rocked!
-  00:26:52	Barton Rhodes:	Emacs org-mode ogs unite!
-  00:27:49	Boris Mann:	Hey Frode!
+00:25:24	David Eddy (Legacy Software, Ltd.):	Since I’ve just stumbled across this… MarkA… what’s the Swarthmore connection with hypertext?
+00:25:27	Jess Martin:	wonderful to see *all* of you here - lots of familiar names
+00:26:24	Peter Wasilko:	Web Squirrel rocked!
+00:26:52	Barton Rhodes:	Emacs org-mode ogs unite!
+00:27:49	Boris Mann:	Hey Frode!
   00:27:56	Jess Martin:	Hi Frode!
   00:27:56	FJK:	It's Spacemacs now :-)
   00:28:29	Jess Martin:	cue Gordon's "All you need is links": https://subconscious.substack.com/p/all-you-need-is-links
@@ -53,7 +53,7 @@ tags:: #chatlog
   00:55:19	Boris Mann:	The use of the word “publishing” to only mean academia and formal papers is interesting 🙂
   00:55:23	Marc-Antoine Parent:	Doesn’t Emily Short publish about twine practices?
   00:55:24	Jess Martin:	(folks if you're trying to chat with everyone, not just Hosts and Panelists, make sure you change the chat drop down to "Everyone")
-  00:55:45	Alan Laidlaw:	Twine + ChatGPT = $$$ (or just more fantasy adventures)
+  00:55:45	Alan Laidlaw:	Twine + ChatGPT = $ (or just more fantasy adventures)
   00:56:37	Fidel:	What's that newsletter about AI and Ethics again?
   00:56:41	Jess Martin:	taxonomies are a lie
   00:57:05	Boris Mann:	Steam Reviews have “reactji” for how people found reviews

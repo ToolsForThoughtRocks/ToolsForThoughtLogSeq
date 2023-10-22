@@ -1,5 +1,3 @@
-[[2022-02-23]]
-
 https://lu.ma/tftrocks-feb22
 ## Speakers
 
