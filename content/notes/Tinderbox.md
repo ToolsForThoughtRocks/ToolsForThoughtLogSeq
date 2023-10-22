@@ -1,5 +1,5 @@
-link:: https://www.eastgate.com/Tinderbox/
-tags:: #app, #MacOS
-author:: [[Mark Bernstein]], [[Eastgate Systems, Inc.]]
+https://www.eastgate.com/Tinderbox/
 
--
+Created by [[Mark Bernstein]], [[Eastgate Systems, Inc.]]
+
+#app #TFT #MacOS 

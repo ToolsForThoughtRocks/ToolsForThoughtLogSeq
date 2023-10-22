@@ -1,11 +1,10 @@
-link:: https://federation.spacebear.ee/
+https://federation.spacebear.ee/
 
-- Hosting by [[Spacebear]] of #fediverse #activitypub software:
-	- [[Pixelfed]]
-	- [[mastodon]]
-	- [[PeerTube]]
-	- [[Hometown]]
-	- [[Pleroma]]
-- Uses [[Gumroad]] for subscriptions
--
--
+Hosting by [[Spacebear]] of #fediverse #activitypub software:
+* [[Pixelfed]]
+* [[mastodon]]
+* [[PeerTube]]
+* [[Hometown]]
+* [[Pleroma]]
+
+Uses [[Gumroad]] for subscriptions

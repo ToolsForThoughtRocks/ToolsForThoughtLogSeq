@@ -1,3 +1,6 @@
-link:: https://subconscious.network/
-twitter:: https://twitter.com/gordonbrander
-tags:: person, speaker
+Founder of [[Subconscious]]
+
+Social
+* #twitter https://twitter.com/gordonbrander
+
+#person #speaker 

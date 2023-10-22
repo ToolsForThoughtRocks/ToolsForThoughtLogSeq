@@ -1,4 +1,3 @@
-title:: Eastgate Systems, Inc.
-tags:: #organization
+Founder is [[Mark Bernstein]]
 
--
+#organization
